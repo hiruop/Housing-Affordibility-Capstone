@@ -5,6 +5,7 @@
 name: Build and deploy Python app to Azure Web App - MRTrail
 
 !pip install pywin32
+
 on:
   push:
     branches:
