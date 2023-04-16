@@ -4,8 +4,6 @@
 
 name: Build and deploy Python app to Azure Web App - MRTrail
 
-!pip install pywin32
-
 on:
   push:
     branches:
@@ -62,4 +60,4 @@ jobs:
         with:
           app-name: 'MRTrail'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D4157FE57BB146AC9E2E9FDDAF700F74 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5A6EAE3C392046C0B002DC76DA52CD67 }}
