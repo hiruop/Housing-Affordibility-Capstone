@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'MRRate'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B68AA547B4934C29A9849BE2F5E7A1FB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_47E175BB569A4B2082B4FE3E5CFAB424 }}
