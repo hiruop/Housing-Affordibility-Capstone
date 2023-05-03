@@ -1,0 +1,1567 @@
+REF_DATE,GEO,DGUID,Structural type of dwelling,Coordinate,Total - Household,Number of persons in private households,Average household size
+2021,Canada,2021A000011124,Total - Structural type of dwelling,1.1,14978940,36328475,2.4
+2021,Canada,2021A000011124,Single-detached house,1.2,7872310,21496250,2.7
+2021,Canada,2021A000011124,Semi-detached house,1.3,746560,2004855,2.7
+2021,Canada,2021A000011124,Row house,1.4,980105,2539830,2.6
+2021,Canada,2021A000011124,Apartment or flat in a duplex,1.5,821490,2012905,2.5
+2021,Canada,2021A000011124,Apartment in a building that has fewer than five storeys,1.6,2738020,4942490,1.8
+2021,Canada,2021A000011124,Apartment in a building that has five or more storeys,1.7,1596155,2871345,1.8
+2021,Canada,2021A000011124,Other single-attached house,1.8,34880,74700,2.1
+2021,Canada,2021A000011124,Movable dwelling,1.9,189420,386105,2.0
+2021,Newfoundland and Labrador,2021A000210,Total - Structural type of dwelling,2.1,223250,502100,2.3
+2021,Newfoundland and Labrador,2021A000210,Single-detached house,2.2,161410,381190,2.4
+2021,Newfoundland and Labrador,2021A000210,Semi-detached house,2.3,8695,18675,2.2
+2021,Newfoundland and Labrador,2021A000210,Row house,2.4,10770,21785,2.0
+2021,Newfoundland and Labrador,2021A000210,Apartment or flat in a duplex,2.5,27535,57690,2.1
+2021,Newfoundland and Labrador,2021A000210,Apartment in a building that has fewer than five storeys,2.6,12330,18285,1.5
+2021,Newfoundland and Labrador,2021A000210,Apartment in a building that has five or more storeys,2.7,810,1060,1.3
+2021,Newfoundland and Labrador,2021A000210,Other single-attached house,2.8,410,815,2.0
+2021,Newfoundland and Labrador,2021A000210,Movable dwelling,2.9,1295,2600,2.0
+2021,"Corner Brook (CA), N.L.",2021S0504015,Total - Structural type of dwelling,3.1,13245,28980,2.2
+2021,"Corner Brook (CA), N.L.",2021S0504015,Single-detached house,3.2,9320,21875,2.4
+2021,"Corner Brook (CA), N.L.",2021S0504015,Semi-detached house,3.3,445,845,1.9
+2021,"Corner Brook (CA), N.L.",2021S0504015,Row house,3.4,430,830,1.9
+2021,"Corner Brook (CA), N.L.",2021S0504015,Apartment or flat in a duplex,3.5,1925,3835,2.0
+2021,"Corner Brook (CA), N.L.",2021S0504015,Apartment in a building that has fewer than five storeys,3.6,1055,1465,1.4
+2021,"Corner Brook (CA), N.L.",2021S0504015,Apartment in a building that has five or more storeys,3.7,5,5,
+2021,"Corner Brook (CA), N.L.",2021S0504015,Other single-attached house,3.8,65,95,1.6
+2021,"Corner Brook (CA), N.L.",2021S0504015,Movable dwelling,3.9,10,20,1.9
+2021,"Gander (CA), N.L.",2021S0504011,Total - Structural type of dwelling,4.1,5745,13080,2.3
+2021,"Gander (CA), N.L.",2021S0504011,Single-detached house,4.2,3955,9630,2.4
+2021,"Gander (CA), N.L.",2021S0504011,Semi-detached house,4.3,360,810,2.3
+2021,"Gander (CA), N.L.",2021S0504011,Row house,4.4,290,610,2.1
+2021,"Gander (CA), N.L.",2021S0504011,Apartment or flat in a duplex,4.5,475,995,2.1
+2021,"Gander (CA), N.L.",2021S0504011,Apartment in a building that has fewer than five storeys,4.6,595,895,1.5
+2021,"Gander (CA), N.L.",2021S0504011,Apartment in a building that has five or more storeys,4.7,15,15,1.1
+2021,"Gander (CA), N.L.",2021S0504011,Other single-attached house,4.8,0,0,0.0
+2021,"Gander (CA), N.L.",2021S0504011,Movable dwelling,4.9,55,115,2.2
+2021,"Grand Falls-Windsor (CA), N.L.",2021S0504010,Total - Structural type of dwelling,5.1,6120,13600,2.2
+2021,"Grand Falls-Windsor (CA), N.L.",2021S0504010,Single-detached house,5.2,3945,9420,2.4
+2021,"Grand Falls-Windsor (CA), N.L.",2021S0504010,Semi-detached house,5.3,370,805,2.2
+2021,"Grand Falls-Windsor (CA), N.L.",2021S0504010,Row house,5.4,535,1040,1.9
+2021,"Grand Falls-Windsor (CA), N.L.",2021S0504010,Apartment or flat in a duplex,5.5,750,1555,2.1
+2021,"Grand Falls-Windsor (CA), N.L.",2021S0504010,Apartment in a building that has fewer than five storeys,5.6,500,720,1.5
+2021,"Grand Falls-Windsor (CA), N.L.",2021S0504010,Apartment in a building that has five or more storeys,5.7,0,0,0.0
+2021,"Grand Falls-Windsor (CA), N.L.",2021S0504010,Other single-attached house,5.8,15,45,2.4
+2021,"Grand Falls-Windsor (CA), N.L.",2021S0504010,Movable dwelling,5.9,0,5,0.0
+2021,"St. John's (CMA), N.L.",2021S0503001,Total - Structural type of dwelling,6.1,89995,208815,2.3
+2021,"St. John's (CMA), N.L.",2021S0503001,Single-detached house,6.2,49215,127240,2.6
+2021,"St. John's (CMA), N.L.",2021S0503001,Semi-detached house,6.3,4210,9145,2.2
+2021,"St. John's (CMA), N.L.",2021S0503001,Row house,6.4,6285,13255,2.1
+2021,"St. John's (CMA), N.L.",2021S0503001,Apartment or flat in a duplex,6.5,22205,47075,2.1
+2021,"St. John's (CMA), N.L.",2021S0503001,Apartment in a building that has fewer than five storeys,6.6,7225,10755,1.5
+2021,"St. John's (CMA), N.L.",2021S0503001,Apartment in a building that has five or more storeys,6.7,550,710,1.3
+2021,"St. John's (CMA), N.L.",2021S0503001,Other single-attached house,6.8,160,325,2.1
+2021,"St. John's (CMA), N.L.",2021S0503001,Movable dwelling,6.9,150,305,2.1
+2021,Prince Edward Island,2021A000211,Total - Structural type of dwelling,7.1,64570,150480,2.3
+2021,Prince Edward Island,2021A000211,Single-detached house,7.2,43855,111435,2.5
+2021,Prince Edward Island,2021A000211,Semi-detached house,7.3,3645,8580,2.4
+2021,Prince Edward Island,2021A000211,Row house,7.4,2680,5125,1.9
+2021,Prince Edward Island,2021A000211,Apartment or flat in a duplex,7.5,1135,2465,2.2
+2021,Prince Edward Island,2021A000211,Apartment in a building that has fewer than five storeys,7.6,10370,16985,1.6
+2021,Prince Edward Island,2021A000211,Apartment in a building that has five or more storeys,7.7,130,210,1.6
+2021,Prince Edward Island,2021A000211,Other single-attached house,7.8,85,195,2.2
+2021,Prince Edward Island,2021A000211,Movable dwelling,7.9,2680,5490,2.1
+2021,"Charlottetown (CA), P.E.I.",2021S0504105,Total - Structural type of dwelling,8.1,32945,77340,2.4
+2021,"Charlottetown (CA), P.E.I.",2021S0504105,Single-detached house,8.2,19775,52355,2.7
+2021,"Charlottetown (CA), P.E.I.",2021S0504105,Semi-detached house,8.3,2305,5460,2.4
+2021,"Charlottetown (CA), P.E.I.",2021S0504105,Row house,8.4,1180,2730,2.3
+2021,"Charlottetown (CA), P.E.I.",2021S0504105,Apartment or flat in a duplex,8.5,715,1530,2.2
+2021,"Charlottetown (CA), P.E.I.",2021S0504105,Apartment in a building that has fewer than five storeys,8.6,7905,13130,1.7
+2021,"Charlottetown (CA), P.E.I.",2021S0504105,Apartment in a building that has five or more storeys,8.7,85,145,1.6
+2021,"Charlottetown (CA), P.E.I.",2021S0504105,Other single-attached house,8.8,35,90,2.4
+2021,"Charlottetown (CA), P.E.I.",2021S0504105,Movable dwelling,8.9,945,1905,2.0
+2021,"Summerside (CA), P.E.I.",2021S0504110,Total - Structural type of dwelling,9.1,7955,17670,2.2
+2021,"Summerside (CA), P.E.I.",2021S0504110,Single-detached house,9.2,4210,10740,2.6
+2021,"Summerside (CA), P.E.I.",2021S0504110,Semi-detached house,9.3,760,1790,2.4
+2021,"Summerside (CA), P.E.I.",2021S0504110,Row house,9.4,790,1380,1.8
+2021,"Summerside (CA), P.E.I.",2021S0504110,Apartment or flat in a duplex,9.5,260,595,2.3
+2021,"Summerside (CA), P.E.I.",2021S0504110,Apartment in a building that has fewer than five storeys,9.6,1365,2135,1.6
+2021,"Summerside (CA), P.E.I.",2021S0504110,Apartment in a building that has five or more storeys,9.7,40,60,1.6
+2021,"Summerside (CA), P.E.I.",2021S0504110,Other single-attached house,9.8,15,20,1.8
+2021,"Summerside (CA), P.E.I.",2021S0504110,Movable dwelling,9.9,520,960,1.8
+2021,Nova Scotia,2021A000212,Total - Structural type of dwelling,10.1,428230,955855,2.2
+2021,Nova Scotia,2021A000212,Single-detached house,10.2,272980,661450,2.4
+2021,Nova Scotia,2021A000212,Semi-detached house,10.3,21605,52480,2.4
+2021,Nova Scotia,2021A000212,Row house,10.4,11220,25255,2.3
+2021,Nova Scotia,2021A000212,Apartment or flat in a duplex,10.5,13165,26690,2.0
+2021,Nova Scotia,2021A000212,Apartment in a building that has fewer than five storeys,10.6,64575,107560,1.7
+2021,Nova Scotia,2021A000212,Apartment in a building that has five or more storeys,10.7,28645,50610,1.8
+2021,Nova Scotia,2021A000212,Other single-attached house,10.8,700,1400,2.0
+2021,Nova Scotia,2021A000212,Movable dwelling,10.9,15345,30415,2.0
+2021,"Cape Breton (CA), N.S.",2021S0504225,Total - Structural type of dwelling,11.1,43795,96640,2.2
+2021,"Cape Breton (CA), N.S.",2021S0504225,Single-detached house,11.2,32275,75505,2.3
+2021,"Cape Breton (CA), N.S.",2021S0504225,Semi-detached house,11.3,2865,6255,2.2
+2021,"Cape Breton (CA), N.S.",2021S0504225,Row house,11.4,760,1475,2.0
+2021,"Cape Breton (CA), N.S.",2021S0504225,Apartment or flat in a duplex,11.5,1905,3765,2.0
+2021,"Cape Breton (CA), N.S.",2021S0504225,Apartment in a building that has fewer than five storeys,11.6,4545,6865,1.5
+2021,"Cape Breton (CA), N.S.",2021S0504225,Apartment in a building that has five or more storeys,11.7,215,280,1.3
+2021,"Cape Breton (CA), N.S.",2021S0504225,Other single-attached house,11.8,65,140,2.0
+2021,"Cape Breton (CA), N.S.",2021S0504225,Movable dwelling,11.9,1170,2355,2.0
+2021,"Halifax (CMA), N.S.",2021S0503205,Total - Structural type of dwelling,12.1,201140,461135,2.3
+2021,"Halifax (CMA), N.S.",2021S0503205,Single-detached house,12.2,99445,262575,2.6
+2021,"Halifax (CMA), N.S.",2021S0503205,Semi-detached house,12.3,12860,33200,2.6
+2021,"Halifax (CMA), N.S.",2021S0503205,Row house,12.4,7550,19055,2.5
+2021,"Halifax (CMA), N.S.",2021S0503205,Apartment or flat in a duplex,12.5,6720,13930,2.1
+2021,"Halifax (CMA), N.S.",2021S0503205,Apartment in a building that has fewer than five storeys,12.6,41235,72165,1.8
+2021,"Halifax (CMA), N.S.",2021S0503205,Apartment in a building that has five or more storeys,12.7,28320,50160,1.8
+2021,"Halifax (CMA), N.S.",2021S0503205,Other single-attached house,12.8,215,435,2.1
+2021,"Halifax (CMA), N.S.",2021S0503205,Movable dwelling,12.9,4805,9615,2.0
+2021,"Kentville (CA), N.S.",2021S0504210,Total - Structural type of dwelling,13.1,11935,26600,2.2
+2021,"Kentville (CA), N.S.",2021S0504210,Single-detached house,13.2,8160,19765,2.4
+2021,"Kentville (CA), N.S.",2021S0504210,Semi-detached house,13.3,855,1890,2.2
+2021,"Kentville (CA), N.S.",2021S0504210,Row house,13.4,100,160,1.6
+2021,"Kentville (CA), N.S.",2021S0504210,Apartment or flat in a duplex,13.5,555,1125,2.0
+2021,"Kentville (CA), N.S.",2021S0504210,Apartment in a building that has fewer than five storeys,13.6,1830,2880,1.6
+2021,"Kentville (CA), N.S.",2021S0504210,Apartment in a building that has five or more storeys,13.7,10,20,1.7
+2021,"Kentville (CA), N.S.",2021S0504210,Other single-attached house,13.8,30,60,2.3
+2021,"Kentville (CA), N.S.",2021S0504210,Movable dwelling,13.9,395,700,1.8
+2021,"New Glasgow (CA), N.S.",2021S0504220,Total - Structural type of dwelling,14.1,15485,33780,2.2
+2021,"New Glasgow (CA), N.S.",2021S0504220,Single-detached house,14.2,11220,26450,2.4
+2021,"New Glasgow (CA), N.S.",2021S0504220,Semi-detached house,14.3,690,1535,2.2
+2021,"New Glasgow (CA), N.S.",2021S0504220,Row house,14.4,435,695,1.6
+2021,"New Glasgow (CA), N.S.",2021S0504220,Apartment or flat in a duplex,14.5,355,680,1.9
+2021,"New Glasgow (CA), N.S.",2021S0504220,Apartment in a building that has fewer than five storeys,14.6,1940,2775,1.4
+2021,"New Glasgow (CA), N.S.",2021S0504220,Apartment in a building that has five or more storeys,14.7,5,10,1.6
+2021,"New Glasgow (CA), N.S.",2021S0504220,Other single-attached house,14.8,20,35,1.8
+2021,"New Glasgow (CA), N.S.",2021S0504220,Movable dwelling,14.9,815,1600,2.0
+2021,"Truro (CA), N.S.",2021S0504215,Total - Structural type of dwelling,15.1,20700,45330,2.2
+2021,"Truro (CA), N.S.",2021S0504215,Single-detached house,15.2,13720,32870,2.4
+2021,"Truro (CA), N.S.",2021S0504215,Semi-detached house,15.3,655,1465,2.2
+2021,"Truro (CA), N.S.",2021S0504215,Row house,15.4,230,420,1.8
+2021,"Truro (CA), N.S.",2021S0504215,Apartment or flat in a duplex,15.5,1050,2155,2.0
+2021,"Truro (CA), N.S.",2021S0504215,Apartment in a building that has fewer than five storeys,15.6,3720,5825,1.6
+2021,"Truro (CA), N.S.",2021S0504215,Apartment in a building that has five or more storeys,15.7,5,10,2.0
+2021,"Truro (CA), N.S.",2021S0504215,Other single-attached house,15.8,65,115,1.9
+2021,"Truro (CA), N.S.",2021S0504215,Movable dwelling,15.9,1255,2470,2.0
+2021,New Brunswick,2021A000213,Total - Structural type of dwelling,16.1,337655,759195,2.3
+2021,New Brunswick,2021A000213,Single-detached house,16.2,228950,554055,2.4
+2021,New Brunswick,2021A000213,Semi-detached house,16.3,13490,32310,2.4
+2021,New Brunswick,2021A000213,Row house,16.4,9740,18840,1.9
+2021,New Brunswick,2021A000213,Apartment or flat in a duplex,16.5,13890,30335,2.2
+2021,New Brunswick,2021A000213,Apartment in a building that has fewer than five storeys,16.6,51985,86400,1.7
+2021,New Brunswick,2021A000213,Apartment in a building that has five or more storeys,16.7,4260,6100,1.4
+2021,New Brunswick,2021A000213,Other single-attached house,16.8,1140,2360,2.1
+2021,New Brunswick,2021A000213,Movable dwelling,16.9,14195,28795,2.0
+2021,"Bathurst (CA), N.B.",2021S0504328,Total - Structural type of dwelling,17.1,14395,30545,2.1
+2021,"Bathurst (CA), N.B.",2021S0504328,Single-detached house,17.2,10295,23460,2.3
+2021,"Bathurst (CA), N.B.",2021S0504328,Semi-detached house,17.3,510,1090,2.1
+2021,"Bathurst (CA), N.B.",2021S0504328,Row house,17.4,775,1240,1.6
+2021,"Bathurst (CA), N.B.",2021S0504328,Apartment or flat in a duplex,17.5,825,1720,2.1
+2021,"Bathurst (CA), N.B.",2021S0504328,Apartment in a building that has fewer than five storeys,17.6,1590,2255,1.4
+2021,"Bathurst (CA), N.B.",2021S0504328,Apartment in a building that has five or more storeys,17.7,0,5,0.0
+2021,"Bathurst (CA), N.B.",2021S0504328,Other single-attached house,17.8,85,195,2.3
+2021,"Bathurst (CA), N.B.",2021S0504328,Movable dwelling,17.9,310,570,1.8
+2021,"Campbellton (CA), N.B./Que.",2021S0504330,Total - Structural type of dwelling,18.1,6130,12655,2.1
+2021,"Campbellton (CA), N.B./Que.",2021S0504330,Single-detached house,18.2,3975,9020,2.3
+2021,"Campbellton (CA), N.B./Que.",2021S0504330,Semi-detached house,18.3,165,365,2.2
+2021,"Campbellton (CA), N.B./Que.",2021S0504330,Row house,18.4,255,520,2.0
+2021,"Campbellton (CA), N.B./Que.",2021S0504330,Apartment or flat in a duplex,18.5,325,620,1.9
+2021,"Campbellton (CA), N.B./Que.",2021S0504330,Apartment in a building that has fewer than five storeys,18.6,1170,1700,1.5
+2021,"Campbellton (CA), N.B./Que.",2021S0504330,Apartment in a building that has five or more storeys,18.7,0,0,0.0
+2021,"Campbellton (CA), N.B./Que.",2021S0504330,Other single-attached house,18.8,95,185,1.9
+2021,"Campbellton (CA), N.B./Que.",2021S0504330,Movable dwelling,18.9,140,255,1.8
+2021,"Campbellton (New Brunswick part) (CA), N.B.",2021S050613330,Total - Structural type of dwelling,19.1,5490,11335,2.1
+2021,"Campbellton (New Brunswick part) (CA), N.B.",2021S050613330,Single-detached house,19.2,3525,8000,2.3
+2021,"Campbellton (New Brunswick part) (CA), N.B.",2021S050613330,Semi-detached house,19.3,135,300,2.2
+2021,"Campbellton (New Brunswick part) (CA), N.B.",2021S050613330,Row house,19.4,250,505,2.0
+2021,"Campbellton (New Brunswick part) (CA), N.B.",2021S050613330,Apartment or flat in a duplex,19.5,315,600,1.9
+2021,"Campbellton (New Brunswick part) (CA), N.B.",2021S050613330,Apartment in a building that has fewer than five storeys,19.6,1035,1500,1.5
+2021,"Campbellton (New Brunswick part) (CA), N.B.",2021S050613330,Apartment in a building that has five or more storeys,19.7,0,0,0.0
+2021,"Campbellton (New Brunswick part) (CA), N.B.",2021S050613330,Other single-attached house,19.8,90,180,1.9
+2021,"Campbellton (New Brunswick part) (CA), N.B.",2021S050613330,Movable dwelling,19.9,140,250,1.8
+2021,"Campbellton (Quebec part) (CA), Que.",2021S050624330,Total - Structural type of dwelling,20.1,645,1320,2.1
+2021,"Campbellton (Quebec part) (CA), Que.",2021S050624330,Single-detached house,20.2,450,1020,2.3
+2021,"Campbellton (Quebec part) (CA), Que.",2021S050624330,Semi-detached house,20.3,35,60,2.0
+2021,"Campbellton (Quebec part) (CA), Que.",2021S050624330,Row house,20.4,5,10,1.8
+2021,"Campbellton (Quebec part) (CA), Que.",2021S050624330,Apartment or flat in a duplex,20.5,15,20,1.5
+2021,"Campbellton (Quebec part) (CA), Que.",2021S050624330,Apartment in a building that has fewer than five storeys,20.6,135,195,1.5
+2021,"Campbellton (Quebec part) (CA), Que.",2021S050624330,Apartment in a building that has five or more storeys,20.7,0,0,0.0
+2021,"Campbellton (Quebec part) (CA), Que.",2021S050624330,Other single-attached house,20.8,5,5,
+2021,"Campbellton (Quebec part) (CA), Que.",2021S050624330,Movable dwelling,20.9,0,5,0.0
+2021,"Edmundston (CA), N.B.",2021S0504335,Total - Structural type of dwelling,21.1,10265,20935,2.0
+2021,"Edmundston (CA), N.B.",2021S0504335,Single-detached house,21.2,6805,15455,2.3
+2021,"Edmundston (CA), N.B.",2021S0504335,Semi-detached house,21.3,345,660,1.9
+2021,"Edmundston (CA), N.B.",2021S0504335,Row house,21.4,260,425,1.6
+2021,"Edmundston (CA), N.B.",2021S0504335,Apartment or flat in a duplex,21.5,615,1100,1.8
+2021,"Edmundston (CA), N.B.",2021S0504335,Apartment in a building that has fewer than five storeys,21.6,1725,2400,1.4
+2021,"Edmundston (CA), N.B.",2021S0504335,Apartment in a building that has five or more storeys,21.7,125,165,1.3
+2021,"Edmundston (CA), N.B.",2021S0504335,Other single-attached house,21.8,40,75,2.0
+2021,"Edmundston (CA), N.B.",2021S0504335,Movable dwelling,21.9,350,650,1.8
+2021,"Fredericton (CMA), N.B.",2021S0503320,Total - Structural type of dwelling,22.1,46355,107165,2.3
+2021,"Fredericton (CMA), N.B.",2021S0503320,Single-detached house,22.2,27300,70280,2.6
+2021,"Fredericton (CMA), N.B.",2021S0503320,Semi-detached house,22.3,920,2255,2.5
+2021,"Fredericton (CMA), N.B.",2021S0503320,Row house,22.4,1285,2885,2.2
+2021,"Fredericton (CMA), N.B.",2021S0503320,Apartment or flat in a duplex,22.5,2775,6350,2.3
+2021,"Fredericton (CMA), N.B.",2021S0503320,Apartment in a building that has fewer than five storeys,22.6,10115,17465,1.7
+2021,"Fredericton (CMA), N.B.",2021S0503320,Apartment in a building that has five or more storeys,22.7,420,675,1.6
+2021,"Fredericton (CMA), N.B.",2021S0503320,Other single-attached house,22.8,190,385,2.0
+2021,"Fredericton (CMA), N.B.",2021S0503320,Movable dwelling,22.9,3345,6870,2.1
+2021,"Miramichi (CA), N.B.",2021S0504329,Total - Structural type of dwelling,23.1,12300,27040,2.2
+2021,"Miramichi (CA), N.B.",2021S0504329,Single-detached house,23.2,9315,21900,2.4
+2021,"Miramichi (CA), N.B.",2021S0504329,Semi-detached house,23.3,410,870,2.1
+2021,"Miramichi (CA), N.B.",2021S0504329,Row house,23.4,50,70,1.3
+2021,"Miramichi (CA), N.B.",2021S0504329,Apartment or flat in a duplex,23.5,190,395,2.1
+2021,"Miramichi (CA), N.B.",2021S0504329,Apartment in a building that has fewer than five storeys,23.6,1460,2115,1.5
+2021,"Miramichi (CA), N.B.",2021S0504329,Apartment in a building that has five or more storeys,23.7,0,0,0.0
+2021,"Miramichi (CA), N.B.",2021S0504329,Other single-attached house,23.8,20,35,1.9
+2021,"Miramichi (CA), N.B.",2021S0504329,Movable dwelling,23.9,850,1650,2.0
+2021,"Moncton (CMA), N.B.",2021S0503305,Total - Structural type of dwelling,24.1,67175,154245,2.3
+2021,"Moncton (CMA), N.B.",2021S0503305,Single-detached house,24.2,36020,93335,2.6
+2021,"Moncton (CMA), N.B.",2021S0503305,Semi-detached house,24.3,6880,17240,2.5
+2021,"Moncton (CMA), N.B.",2021S0503305,Row house,24.4,2245,4525,2.0
+2021,"Moncton (CMA), N.B.",2021S0503305,Apartment or flat in a duplex,24.5,3280,7040,2.1
+2021,"Moncton (CMA), N.B.",2021S0503305,Apartment in a building that has fewer than five storeys,24.6,14640,24655,1.7
+2021,"Moncton (CMA), N.B.",2021S0503305,Apartment in a building that has five or more storeys,24.7,1300,1760,1.4
+2021,"Moncton (CMA), N.B.",2021S0503305,Other single-attached house,24.8,145,290,2.0
+2021,"Moncton (CMA), N.B.",2021S0503305,Movable dwelling,24.9,2670,5405,2.0
+2021,"Saint John (CMA), N.B.",2021S0503310,Total - Structural type of dwelling,25.1,55865,128385,2.3
+2021,"Saint John (CMA), N.B.",2021S0503310,Single-detached house,25.2,33095,84590,2.6
+2021,"Saint John (CMA), N.B.",2021S0503310,Semi-detached house,25.3,1265,2820,2.2
+2021,"Saint John (CMA), N.B.",2021S0503310,Row house,25.4,2325,5025,2.2
+2021,"Saint John (CMA), N.B.",2021S0503310,Apartment or flat in a duplex,25.5,3855,9030,2.3
+2021,"Saint John (CMA), N.B.",2021S0503310,Apartment in a building that has fewer than five storeys,25.6,11265,19895,1.8
+2021,"Saint John (CMA), N.B.",2021S0503310,Apartment in a building that has five or more storeys,25.7,2160,3115,1.4
+2021,"Saint John (CMA), N.B.",2021S0503310,Other single-attached house,25.8,135,295,2.2
+2021,"Saint John (CMA), N.B.",2021S0503310,Movable dwelling,25.9,1765,3620,2.1
+2021,Quebec,2021A000224,Total - Structural type of dwelling,26.1,3749035,8308480,2.2
+2021,Quebec,2021A000224,Single-detached house,26.2,1671920,4300105,2.6
+2021,Quebec,2021A000224,Semi-detached house,26.3,199080,504475,2.5
+2021,Quebec,2021A000224,Row house,26.4,98625,241660,2.5
+2021,Quebec,2021A000224,Apartment or flat in a duplex,26.5,271245,575660,2.1
+2021,Quebec,2021A000224,Apartment in a building that has fewer than five storeys,26.6,1242910,2243615,1.8
+2021,Quebec,2021A000224,Apartment in a building that has five or more storeys,26.7,225745,365520,1.6
+2021,Quebec,2021A000224,Other single-attached house,26.8,15745,32640,2.1
+2021,Quebec,2021A000224,Movable dwelling,26.9,23760,44805,1.9
+2021,"Alma (CA), Que.",2021S0504410,Total - Structural type of dwelling,27.1,13815,29320,2.1
+2021,"Alma (CA), Que.",2021S0504410,Single-detached house,27.2,7150,17885,2.5
+2021,"Alma (CA), Que.",2021S0504410,Semi-detached house,27.3,1065,2195,2.1
+2021,"Alma (CA), Que.",2021S0504410,Row house,27.4,250,450,1.8
+2021,"Alma (CA), Que.",2021S0504410,Apartment or flat in a duplex,27.5,1890,3575,1.9
+2021,"Alma (CA), Que.",2021S0504410,Apartment in a building that has fewer than five storeys,27.6,3230,4795,1.5
+2021,"Alma (CA), Que.",2021S0504410,Apartment in a building that has five or more storeys,27.7,30,35,1.3
+2021,"Alma (CA), Que.",2021S0504410,Other single-attached house,27.8,130,230,1.8
+2021,"Alma (CA), Que.",2021S0504410,Movable dwelling,27.9,70,150,2.2
+2021,"Amos (CA), Que.",2021S0504481,Total - Structural type of dwelling,28.1,8250,18295,2.2
+2021,"Amos (CA), Que.",2021S0504481,Single-detached house,28.2,5235,13170,2.5
+2021,"Amos (CA), Que.",2021S0504481,Semi-detached house,28.3,280,605,2.2
+2021,"Amos (CA), Que.",2021S0504481,Row house,28.4,180,360,2.0
+2021,"Amos (CA), Que.",2021S0504481,Apartment or flat in a duplex,28.5,600,1115,1.9
+2021,"Amos (CA), Que.",2021S0504481,Apartment in a building that has fewer than five storeys,28.6,1835,2800,1.5
+2021,"Amos (CA), Que.",2021S0504481,Apartment in a building that has five or more storeys,28.7,0,0,0.0
+2021,"Amos (CA), Que.",2021S0504481,Other single-attached house,28.8,50,95,2.0
+2021,"Amos (CA), Que.",2021S0504481,Movable dwelling,28.9,75,145,2.0
+2021,"Baie-Comeau (CA), Que.",2021S0504406,Total - Structural type of dwelling,29.1,12355,25720,2.1
+2021,"Baie-Comeau (CA), Que.",2021S0504406,Single-detached house,29.2,7180,16880,2.4
+2021,"Baie-Comeau (CA), Que.",2021S0504406,Semi-detached house,29.3,750,1665,2.2
+2021,"Baie-Comeau (CA), Que.",2021S0504406,Row house,29.4,295,585,2.0
+2021,"Baie-Comeau (CA), Que.",2021S0504406,Apartment or flat in a duplex,29.5,375,690,1.8
+2021,"Baie-Comeau (CA), Que.",2021S0504406,Apartment in a building that has fewer than five storeys,29.6,2315,3400,1.5
+2021,"Baie-Comeau (CA), Que.",2021S0504406,Apartment in a building that has five or more storeys,29.7,100,120,1.2
+2021,"Baie-Comeau (CA), Que.",2021S0504406,Other single-attached house,29.8,65,105,1.6
+2021,"Baie-Comeau (CA), Que.",2021S0504406,Movable dwelling,29.9,1275,2285,1.8
+2021,"Cowansville (CA), Que.",2021S0504437,Total - Structural type of dwelling,30.1,6980,14285,2.1
+2021,"Cowansville (CA), Que.",2021S0504437,Single-detached house,30.2,2805,6895,2.5
+2021,"Cowansville (CA), Que.",2021S0504437,Semi-detached house,30.3,325,855,2.6
+2021,"Cowansville (CA), Que.",2021S0504437,Row house,30.4,75,140,1.8
+2021,"Cowansville (CA), Que.",2021S0504437,Apartment or flat in a duplex,30.5,550,1090,2.0
+2021,"Cowansville (CA), Que.",2021S0504437,Apartment in a building that has fewer than five storeys,30.6,3125,5135,1.6
+2021,"Cowansville (CA), Que.",2021S0504437,Apartment in a building that has five or more storeys,30.7,0,0,0.0
+2021,"Cowansville (CA), Que.",2021S0504437,Other single-attached house,30.8,60,110,1.8
+2021,"Cowansville (CA), Que.",2021S0504437,Movable dwelling,30.9,30,55,1.7
+2021,"Dolbeau-Mistassini (CA), Que.",2021S0504411,Total - Structural type of dwelling,31.1,6960,14710,2.1
+2021,"Dolbeau-Mistassini (CA), Que.",2021S0504411,Single-detached house,31.2,4380,10455,2.4
+2021,"Dolbeau-Mistassini (CA), Que.",2021S0504411,Semi-detached house,31.3,350,750,2.2
+2021,"Dolbeau-Mistassini (CA), Que.",2021S0504411,Row house,31.4,65,130,2.0
+2021,"Dolbeau-Mistassini (CA), Que.",2021S0504411,Apartment or flat in a duplex,31.5,650,1180,1.8
+2021,"Dolbeau-Mistassini (CA), Que.",2021S0504411,Apartment in a building that has fewer than five storeys,31.6,1330,1855,1.4
+2021,"Dolbeau-Mistassini (CA), Que.",2021S0504411,Apartment in a building that has five or more storeys,31.7,5,5,
+2021,"Dolbeau-Mistassini (CA), Que.",2021S0504411,Other single-attached house,31.8,75,145,1.9
+2021,"Dolbeau-Mistassini (CA), Que.",2021S0504411,Movable dwelling,31.9,105,185,1.8
+2021,"Drummondville (CMA), Que.",2021S0503447,Total - Structural type of dwelling,32.1,45695,98565,2.2
+2021,"Drummondville (CMA), Que.",2021S0503447,Single-detached house,32.2,24185,61640,2.6
+2021,"Drummondville (CMA), Que.",2021S0503447,Semi-detached house,32.3,2400,5265,2.2
+2021,"Drummondville (CMA), Que.",2021S0503447,Row house,32.4,820,1965,2.4
+2021,"Drummondville (CMA), Que.",2021S0503447,Apartment or flat in a duplex,32.5,3545,6445,1.8
+2021,"Drummondville (CMA), Que.",2021S0503447,Apartment in a building that has fewer than five storeys,32.6,13610,21455,1.6
+2021,"Drummondville (CMA), Que.",2021S0503447,Apartment in a building that has five or more storeys,32.7,485,560,1.2
+2021,"Drummondville (CMA), Que.",2021S0503447,Other single-attached house,32.8,165,365,2.2
+2021,"Drummondville (CMA), Que.",2021S0503447,Movable dwelling,32.9,475,870,1.8
+2021,"Granby (CA), Que.",2021S0504450,Total - Structural type of dwelling,33.1,41095,88250,2.2
+2021,"Granby (CA), Que.",2021S0504450,Single-detached house,33.2,18515,47520,2.6
+2021,"Granby (CA), Que.",2021S0504450,Semi-detached house,33.3,3125,7515,2.4
+2021,"Granby (CA), Que.",2021S0504450,Row house,33.4,580,1340,2.3
+2021,"Granby (CA), Que.",2021S0504450,Apartment or flat in a duplex,33.5,2570,5170,2.0
+2021,"Granby (CA), Que.",2021S0504450,Apartment in a building that has fewer than five storeys,33.6,14470,23505,1.6
+2021,"Granby (CA), Que.",2021S0504450,Apartment in a building that has five or more storeys,33.7,515,755,1.5
+2021,"Granby (CA), Que.",2021S0504450,Other single-attached house,33.8,505,905,1.8
+2021,"Granby (CA), Que.",2021S0504450,Movable dwelling,33.9,815,1535,1.9
+2021,"Joliette (CA), Que.",2021S0504456,Total - Structural type of dwelling,34.1,24565,50165,2.0
+2021,"Joliette (CA), Que.",2021S0504456,Single-detached house,34.2,11150,27430,2.5
+2021,"Joliette (CA), Que.",2021S0504456,Semi-detached house,34.3,730,1565,2.1
+2021,"Joliette (CA), Que.",2021S0504456,Row house,34.4,515,1000,2.0
+2021,"Joliette (CA), Que.",2021S0504456,Apartment or flat in a duplex,34.5,1920,3775,2.0
+2021,"Joliette (CA), Que.",2021S0504456,Apartment in a building that has fewer than five storeys,34.6,9815,15640,1.6
+2021,"Joliette (CA), Que.",2021S0504456,Apartment in a building that has five or more storeys,34.7,215,290,1.4
+2021,"Joliette (CA), Que.",2021S0504456,Other single-attached house,34.8,170,365,2.2
+2021,"Joliette (CA), Que.",2021S0504456,Movable dwelling,34.9,50,100,2.0
+2021,"Lachute (CA), Que.",2021S0504468,Total - Structural type of dwelling,35.1,6535,13365,2.1
+2021,"Lachute (CA), Que.",2021S0504468,Single-detached house,35.2,3230,7575,2.4
+2021,"Lachute (CA), Que.",2021S0504468,Semi-detached house,35.3,195,430,2.2
+2021,"Lachute (CA), Que.",2021S0504468,Row house,35.4,120,270,2.3
+2021,"Lachute (CA), Que.",2021S0504468,Apartment or flat in a duplex,35.5,675,1290,1.9
+2021,"Lachute (CA), Que.",2021S0504468,Apartment in a building that has fewer than five storeys,35.6,2250,3680,1.6
+2021,"Lachute (CA), Que.",2021S0504468,Apartment in a building that has five or more storeys,35.7,0,0,0.0
+2021,"Lachute (CA), Que.",2021S0504468,Other single-attached house,35.8,60,115,2.0
+2021,"Lachute (CA), Que.",2021S0504468,Movable dwelling,35.9,5,5,1.2
+2021,"Matane (CA), Que.",2021S0504403,Total - Structural type of dwelling,36.1,9170,18010,2.0
+2021,"Matane (CA), Que.",2021S0504403,Single-detached house,36.2,5860,12850,2.2
+2021,"Matane (CA), Que.",2021S0504403,Semi-detached house,36.3,395,815,2.1
+2021,"Matane (CA), Que.",2021S0504403,Row house,36.4,105,195,1.9
+2021,"Matane (CA), Que.",2021S0504403,Apartment or flat in a duplex,36.5,575,975,1.7
+2021,"Matane (CA), Que.",2021S0504403,Apartment in a building that has fewer than five storeys,36.6,1995,2720,1.4
+2021,"Matane (CA), Que.",2021S0504403,Apartment in a building that has five or more storeys,36.7,10,20,1.7
+2021,"Matane (CA), Que.",2021S0504403,Other single-attached house,36.8,40,80,2.0
+2021,"Matane (CA), Que.",2021S0504403,Movable dwelling,36.9,195,350,1.8
+2021,"Montréal (CMA), Que.",2021S0503462,Total - Structural type of dwelling,37.1,1835695,4206380,2.3
+2021,"Montréal (CMA), Que.",2021S0503462,Single-detached house,37.2,582880,1657030,2.8
+2021,"Montréal (CMA), Que.",2021S0503462,Semi-detached house,37.3,89795,247885,2.8
+2021,"Montréal (CMA), Que.",2021S0503462,Row house,37.4,59765,158135,2.7
+2021,"Montréal (CMA), Que.",2021S0503462,Apartment or flat in a duplex,37.5,150105,346465,2.3
+2021,"Montréal (CMA), Que.",2021S0503462,Apartment in a building that has fewer than five storeys,37.6,758870,1469865,1.9
+2021,"Montréal (CMA), Que.",2021S0503462,Apartment in a building that has five or more storeys,37.7,183500,304165,1.7
+2021,"Montréal (CMA), Que.",2021S0503462,Other single-attached house,37.8,6415,14390,2.2
+2021,"Montréal (CMA), Que.",2021S0503462,Movable dwelling,37.9,4365,8455,1.9
+2021,"Québec (CMA), Que.",2021S0503421,Total - Structural type of dwelling,38.1,387955,817105,2.1
+2021,"Québec (CMA), Que.",2021S0503421,Single-detached house,38.2,156800,411310,2.6
+2021,"Québec (CMA), Que.",2021S0503421,Semi-detached house,38.3,22595,54265,2.4
+2021,"Québec (CMA), Que.",2021S0503421,Row house,38.4,9380,20775,2.2
+2021,"Québec (CMA), Que.",2021S0503421,Apartment or flat in a duplex,38.5,22845,45015,2.0
+2021,"Québec (CMA), Que.",2021S0503421,Apartment in a building that has fewer than five storeys,38.6,145325,237790,1.6
+2021,"Québec (CMA), Que.",2021S0503421,Apartment in a building that has five or more storeys,38.7,26870,39795,1.5
+2021,"Québec (CMA), Que.",2021S0503421,Other single-attached house,38.8,1330,2755,2.1
+2021,"Québec (CMA), Que.",2021S0503421,Movable dwelling,38.9,2810,5395,1.9
+2021,"Rimouski (CA), Que.",2021S0504404,Total - Structural type of dwelling,39.1,25615,52475,2.1
+2021,"Rimouski (CA), Que.",2021S0504404,Single-detached house,39.2,13315,32495,2.4
+2021,"Rimouski (CA), Que.",2021S0504404,Semi-detached house,39.3,2275,4740,2.1
+2021,"Rimouski (CA), Que.",2021S0504404,Row house,39.4,635,1030,1.6
+2021,"Rimouski (CA), Que.",2021S0504404,Apartment or flat in a duplex,39.5,1190,2135,1.8
+2021,"Rimouski (CA), Que.",2021S0504404,Apartment in a building that has fewer than five storeys,39.6,7355,10790,1.5
+2021,"Rimouski (CA), Que.",2021S0504404,Apartment in a building that has five or more storeys,39.7,490,575,1.2
+2021,"Rimouski (CA), Que.",2021S0504404,Other single-attached house,39.8,135,310,2.3
+2021,"Rimouski (CA), Que.",2021S0504404,Movable dwelling,39.9,215,410,1.9
+2021,"Rivière-du-Loup (CA), Que.",2021S0504405,Total - Structural type of dwelling,40.1,13735,28680,2.1
+2021,"Rivière-du-Loup (CA), Que.",2021S0504405,Single-detached house,40.2,7425,18325,2.5
+2021,"Rivière-du-Loup (CA), Que.",2021S0504405,Semi-detached house,40.3,825,1795,2.2
+2021,"Rivière-du-Loup (CA), Que.",2021S0504405,Row house,40.4,185,335,1.8
+2021,"Rivière-du-Loup (CA), Que.",2021S0504405,Apartment or flat in a duplex,40.5,680,1265,1.9
+2021,"Rivière-du-Loup (CA), Que.",2021S0504405,Apartment in a building that has fewer than five storeys,40.6,4315,6350,1.5
+2021,"Rivière-du-Loup (CA), Que.",2021S0504405,Apartment in a building that has five or more storeys,40.7,50,70,1.5
+2021,"Rivière-du-Loup (CA), Que.",2021S0504405,Other single-attached house,40.8,120,280,2.4
+2021,"Rivière-du-Loup (CA), Que.",2021S0504405,Movable dwelling,40.9,140,255,1.8
+2021,"Rouyn-Noranda (CA), Que.",2021S0504485,Total - Structural type of dwelling,41.1,19280,41285,2.1
+2021,"Rouyn-Noranda (CA), Que.",2021S0504485,Single-detached house,41.2,10295,26045,2.5
+2021,"Rouyn-Noranda (CA), Que.",2021S0504485,Semi-detached house,41.3,1115,2355,2.1
+2021,"Rouyn-Noranda (CA), Que.",2021S0504485,Row house,41.4,115,210,1.9
+2021,"Rouyn-Noranda (CA), Que.",2021S0504485,Apartment or flat in a duplex,41.5,1675,3230,1.9
+2021,"Rouyn-Noranda (CA), Que.",2021S0504485,Apartment in a building that has fewer than five storeys,41.6,5660,8710,1.5
+2021,"Rouyn-Noranda (CA), Que.",2021S0504485,Apartment in a building that has five or more storeys,41.7,60,70,1.3
+2021,"Rouyn-Noranda (CA), Que.",2021S0504485,Other single-attached house,41.8,140,220,1.6
+2021,"Rouyn-Noranda (CA), Que.",2021S0504485,Movable dwelling,41.9,235,440,1.9
+2021,"Saguenay (CMA), Que.",2021S0503408,Total - Structural type of dwelling,42.1,74810,157920,2.1
+2021,"Saguenay (CMA), Que.",2021S0503408,Single-detached house,42.2,38460,94700,2.5
+2021,"Saguenay (CMA), Que.",2021S0503408,Semi-detached house,42.3,5755,12360,2.2
+2021,"Saguenay (CMA), Que.",2021S0503408,Row house,42.4,1660,3510,2.1
+2021,"Saguenay (CMA), Que.",2021S0503408,Apartment or flat in a duplex,42.5,9330,17650,1.9
+2021,"Saguenay (CMA), Que.",2021S0503408,Apartment in a building that has fewer than five storeys,42.6,17870,27175,1.5
+2021,"Saguenay (CMA), Que.",2021S0503408,Apartment in a building that has five or more storeys,42.7,1055,1270,1.2
+2021,"Saguenay (CMA), Que.",2021S0503408,Other single-attached house,42.8,240,420,1.8
+2021,"Saguenay (CMA), Que.",2021S0503408,Movable dwelling,42.9,445,830,1.9
+2021,"Saint-Georges (CA), Que.",2021S0504428,Total - Structural type of dwelling,43.1,16140,33985,2.1
+2021,"Saint-Georges (CA), Que.",2021S0504428,Single-detached house,43.2,9125,22610,2.5
+2021,"Saint-Georges (CA), Que.",2021S0504428,Semi-detached house,43.3,1740,3720,2.1
+2021,"Saint-Georges (CA), Que.",2021S0504428,Row house,43.4,235,350,1.5
+2021,"Saint-Georges (CA), Que.",2021S0504428,Apartment or flat in a duplex,43.5,700,1185,1.7
+2021,"Saint-Georges (CA), Que.",2021S0504428,Apartment in a building that has fewer than five storeys,43.6,3860,5415,1.4
+2021,"Saint-Georges (CA), Que.",2021S0504428,Apartment in a building that has five or more storeys,43.7,315,390,1.2
+2021,"Saint-Georges (CA), Que.",2021S0504428,Other single-attached house,43.8,115,235,2.0
+2021,"Saint-Georges (CA), Que.",2021S0504428,Movable dwelling,43.9,40,80,1.9
+2021,"Saint-Hyacinthe (CA), Que.",2021S0504452,Total - Structural type of dwelling,44.1,27960,57570,2.1
+2021,"Saint-Hyacinthe (CA), Que.",2021S0504452,Single-detached house,44.2,10100,25725,2.6
+2021,"Saint-Hyacinthe (CA), Que.",2021S0504452,Semi-detached house,44.3,1570,3600,2.3
+2021,"Saint-Hyacinthe (CA), Que.",2021S0504452,Row house,44.4,650,1615,2.5
+2021,"Saint-Hyacinthe (CA), Que.",2021S0504452,Apartment or flat in a duplex,44.5,2305,4550,2.0
+2021,"Saint-Hyacinthe (CA), Que.",2021S0504452,Apartment in a building that has fewer than five storeys,44.6,12895,21335,1.7
+2021,"Saint-Hyacinthe (CA), Que.",2021S0504452,Apartment in a building that has five or more storeys,44.7,140,160,1.1
+2021,"Saint-Hyacinthe (CA), Que.",2021S0504452,Other single-attached house,44.8,210,415,2.0
+2021,"Saint-Hyacinthe (CA), Que.",2021S0504452,Movable dwelling,44.9,100,180,1.8
+2021,"Sainte-Agathe-des-Monts (CA), Que.",2021S0504467,Total - Structural type of dwelling,45.1,9670,19415,2.0
+2021,"Sainte-Agathe-des-Monts (CA), Que.",2021S0504467,Single-detached house,45.2,5905,12915,2.2
+2021,"Sainte-Agathe-des-Monts (CA), Que.",2021S0504467,Semi-detached house,45.3,190,405,2.1
+2021,"Sainte-Agathe-des-Monts (CA), Que.",2021S0504467,Row house,45.4,220,370,1.7
+2021,"Sainte-Agathe-des-Monts (CA), Que.",2021S0504467,Apartment or flat in a duplex,45.5,1570,2925,1.9
+2021,"Sainte-Agathe-des-Monts (CA), Que.",2021S0504467,Apartment in a building that has fewer than five storeys,45.6,1590,2475,1.6
+2021,"Sainte-Agathe-des-Monts (CA), Que.",2021S0504467,Apartment in a building that has five or more storeys,45.7,0,5,0.0
+2021,"Sainte-Agathe-des-Monts (CA), Que.",2021S0504467,Other single-attached house,45.8,40,75,2.1
+2021,"Sainte-Agathe-des-Monts (CA), Que.",2021S0504467,Movable dwelling,45.9,160,245,1.5
+2021,"Sainte-Marie (CA), Que.",2021S0504423,Total - Structural type of dwelling,46.1,5500,12640,2.3
+2021,"Sainte-Marie (CA), Que.",2021S0504423,Single-detached house,46.2,3200,8400,2.6
+2021,"Sainte-Marie (CA), Que.",2021S0504423,Semi-detached house,46.3,845,1900,2.2
+2021,"Sainte-Marie (CA), Que.",2021S0504423,Row house,46.4,125,220,1.8
+2021,"Sainte-Marie (CA), Que.",2021S0504423,Apartment or flat in a duplex,46.5,150,250,1.7
+2021,"Sainte-Marie (CA), Que.",2021S0504423,Apartment in a building that has fewer than five storeys,46.6,1090,1715,1.6
+2021,"Sainte-Marie (CA), Que.",2021S0504423,Apartment in a building that has five or more storeys,46.7,0,0,0.0
+2021,"Sainte-Marie (CA), Que.",2021S0504423,Other single-attached house,46.8,15,20,1.6
+2021,"Sainte-Marie (CA), Que.",2021S0504423,Movable dwelling,46.9,65,125,1.9
+2021,"Salaberry-de-Valleyfield (CA), Que.",2021S0504465,Total - Structural type of dwelling,47.1,20070,41200,2.1
+2021,"Salaberry-de-Valleyfield (CA), Que.",2021S0504465,Single-detached house,47.2,9150,22065,2.4
+2021,"Salaberry-de-Valleyfield (CA), Que.",2021S0504465,Semi-detached house,47.3,1235,2745,2.2
+2021,"Salaberry-de-Valleyfield (CA), Que.",2021S0504465,Row house,47.4,390,815,2.1
+2021,"Salaberry-de-Valleyfield (CA), Que.",2021S0504465,Apartment or flat in a duplex,47.5,2695,5185,1.9
+2021,"Salaberry-de-Valleyfield (CA), Que.",2021S0504465,Apartment in a building that has fewer than five storeys,47.6,6535,10275,1.6
+2021,"Salaberry-de-Valleyfield (CA), Que.",2021S0504465,Apartment in a building that has five or more storeys,47.7,5,0,
+2021,"Salaberry-de-Valleyfield (CA), Que.",2021S0504465,Other single-attached house,47.8,55,100,1.8
+2021,"Salaberry-de-Valleyfield (CA), Que.",2021S0504465,Movable dwelling,47.9,5,5,1.6
+2021,"Sept-Îles (CA), Que.",2021S0504412,Total - Structural type of dwelling,48.1,12290,27160,2.2
+2021,"Sept-Îles (CA), Que.",2021S0504412,Single-detached house,48.2,6260,16120,2.6
+2021,"Sept-Îles (CA), Que.",2021S0504412,Semi-detached house,48.3,545,1275,2.4
+2021,"Sept-Îles (CA), Que.",2021S0504412,Row house,48.4,475,1050,2.2
+2021,"Sept-Îles (CA), Que.",2021S0504412,Apartment or flat in a duplex,48.5,515,1060,2.1
+2021,"Sept-Îles (CA), Que.",2021S0504412,Apartment in a building that has fewer than five storeys,48.6,2950,4585,1.6
+2021,"Sept-Îles (CA), Que.",2021S0504412,Apartment in a building that has five or more storeys,48.7,175,200,1.2
+2021,"Sept-Îles (CA), Que.",2021S0504412,Other single-attached house,48.8,20,30,1.7
+2021,"Sept-Îles (CA), Que.",2021S0504412,Movable dwelling,48.9,1360,2835,2.1
+2021,"Shawinigan (CA), Que.",2021S0504444,Total - Structural type of dwelling,49.1,25060,47645,1.9
+2021,"Shawinigan (CA), Que.",2021S0504444,Single-detached house,49.2,12495,27970,2.2
+2021,"Shawinigan (CA), Que.",2021S0504444,Semi-detached house,49.3,705,1490,2.1
+2021,"Shawinigan (CA), Que.",2021S0504444,Row house,49.4,225,405,1.8
+2021,"Shawinigan (CA), Que.",2021S0504444,Apartment or flat in a duplex,49.5,2415,4055,1.7
+2021,"Shawinigan (CA), Que.",2021S0504444,Apartment in a building that has fewer than five storeys,49.6,8820,13050,1.5
+2021,"Shawinigan (CA), Que.",2021S0504444,Apartment in a building that has five or more storeys,49.7,10,25,2.0
+2021,"Shawinigan (CA), Que.",2021S0504444,Other single-attached house,49.8,300,495,1.7
+2021,"Shawinigan (CA), Que.",2021S0504444,Movable dwelling,49.9,90,150,1.7
+2021,"Sherbrooke (CMA), Que.",2021S0503433,Total - Structural type of dwelling,50.1,104650,220110,2.1
+2021,"Sherbrooke (CMA), Que.",2021S0503433,Single-detached house,50.2,45575,116245,2.6
+2021,"Sherbrooke (CMA), Que.",2021S0503433,Semi-detached house,50.3,4890,11220,2.3
+2021,"Sherbrooke (CMA), Que.",2021S0503433,Row house,50.4,2800,6175,2.2
+2021,"Sherbrooke (CMA), Que.",2021S0503433,Apartment or flat in a duplex,50.5,6010,11515,1.9
+2021,"Sherbrooke (CMA), Que.",2021S0503433,Apartment in a building that has fewer than five storeys,50.6,41955,69710,1.7
+2021,"Sherbrooke (CMA), Que.",2021S0503433,Apartment in a building that has five or more storeys,50.7,2480,3550,1.4
+2021,"Sherbrooke (CMA), Que.",2021S0503433,Other single-attached house,50.8,365,620,1.7
+2021,"Sherbrooke (CMA), Que.",2021S0503433,Movable dwelling,50.9,565,1075,1.9
+2021,"Sorel-Tracy (CA), Que.",2021S0504454,Total - Structural type of dwelling,51.1,20310,40455,2.0
+2021,"Sorel-Tracy (CA), Que.",2021S0504454,Single-detached house,51.2,11325,25935,2.3
+2021,"Sorel-Tracy (CA), Que.",2021S0504454,Semi-detached house,51.3,1100,2140,1.9
+2021,"Sorel-Tracy (CA), Que.",2021S0504454,Row house,51.4,375,675,1.8
+2021,"Sorel-Tracy (CA), Que.",2021S0504454,Apartment or flat in a duplex,51.5,1775,3150,1.8
+2021,"Sorel-Tracy (CA), Que.",2021S0504454,Apartment in a building that has fewer than five storeys,51.6,5430,8070,1.5
+2021,"Sorel-Tracy (CA), Que.",2021S0504454,Apartment in a building that has five or more storeys,51.7,150,180,1.2
+2021,"Sorel-Tracy (CA), Que.",2021S0504454,Other single-attached house,51.8,95,220,2.3
+2021,"Sorel-Tracy (CA), Que.",2021S0504454,Movable dwelling,51.9,55,90,1.6
+2021,"Thetford Mines (CA), Que.",2021S0504430,Total - Structural type of dwelling,52.1,13260,26425,2.0
+2021,"Thetford Mines (CA), Que.",2021S0504430,Single-detached house,52.2,8610,19390,2.3
+2021,"Thetford Mines (CA), Que.",2021S0504430,Semi-detached house,52.3,220,395,1.8
+2021,"Thetford Mines (CA), Que.",2021S0504430,Row house,52.4,90,150,1.7
+2021,"Thetford Mines (CA), Que.",2021S0504430,Apartment or flat in a duplex,52.5,1430,2320,1.6
+2021,"Thetford Mines (CA), Que.",2021S0504430,Apartment in a building that has fewer than five storeys,52.6,2695,3775,1.4
+2021,"Thetford Mines (CA), Que.",2021S0504430,Apartment in a building that has five or more storeys,52.7,0,0,0.0
+2021,"Thetford Mines (CA), Que.",2021S0504430,Other single-attached house,52.8,70,145,2.0
+2021,"Thetford Mines (CA), Que.",2021S0504430,Movable dwelling,52.9,145,250,1.7
+2021,"Trois-Rivières (CMA), Que.",2021S0503442,Total - Structural type of dwelling,53.1,76635,155535,2.0
+2021,"Trois-Rivières (CMA), Que.",2021S0503442,Single-detached house,53.2,35045,85325,2.4
+2021,"Trois-Rivières (CMA), Que.",2021S0503442,Semi-detached house,53.3,5115,11505,2.3
+2021,"Trois-Rivières (CMA), Que.",2021S0503442,Row house,53.4,1975,3805,1.9
+2021,"Trois-Rivières (CMA), Que.",2021S0503442,Apartment or flat in a duplex,53.5,5220,9535,1.8
+2021,"Trois-Rivières (CMA), Que.",2021S0503442,Apartment in a building that has fewer than five storeys,53.6,27535,42820,1.6
+2021,"Trois-Rivières (CMA), Que.",2021S0503442,Apartment in a building that has five or more storeys,53.7,1110,1345,1.2
+2021,"Trois-Rivières (CMA), Que.",2021S0503442,Other single-attached house,53.8,365,710,2.0
+2021,"Trois-Rivières (CMA), Que.",2021S0503442,Movable dwelling,53.9,270,485,1.8
+2021,"Val-d'Or (CA), Que.",2021S0504480,Total - Structural type of dwelling,54.1,15375,33420,2.2
+2021,"Val-d'Or (CA), Que.",2021S0504480,Single-detached house,54.2,8030,20640,2.6
+2021,"Val-d'Or (CA), Que.",2021S0504480,Semi-detached house,54.3,620,1360,2.2
+2021,"Val-d'Or (CA), Que.",2021S0504480,Row house,54.4,295,690,2.3
+2021,"Val-d'Or (CA), Que.",2021S0504480,Apartment or flat in a duplex,54.5,1590,3185,2.0
+2021,"Val-d'Or (CA), Que.",2021S0504480,Apartment in a building that has fewer than five storeys,54.6,4350,6775,1.6
+2021,"Val-d'Or (CA), Que.",2021S0504480,Apartment in a building that has five or more storeys,54.7,225,255,1.1
+2021,"Val-d'Or (CA), Que.",2021S0504480,Other single-attached house,54.8,40,70,1.8
+2021,"Val-d'Or (CA), Que.",2021S0504480,Movable dwelling,54.9,220,450,2.0
+2021,"Victoriaville (CA), Que.",2021S0504440,Total - Structural type of dwelling,55.1,23910,50555,2.1
+2021,"Victoriaville (CA), Que.",2021S0504440,Single-detached house,55.2,12210,30715,2.5
+2021,"Victoriaville (CA), Que.",2021S0504440,Semi-detached house,55.3,2420,5585,2.3
+2021,"Victoriaville (CA), Que.",2021S0504440,Row house,55.4,190,365,1.9
+2021,"Victoriaville (CA), Que.",2021S0504440,Apartment or flat in a duplex,55.5,1290,2220,1.7
+2021,"Victoriaville (CA), Que.",2021S0504440,Apartment in a building that has fewer than five storeys,55.6,7685,11465,1.5
+2021,"Victoriaville (CA), Que.",2021S0504440,Apartment in a building that has five or more storeys,55.7,5,10,1.4
+2021,"Victoriaville (CA), Que.",2021S0504440,Other single-attached house,55.8,35,85,2.4
+2021,"Victoriaville (CA), Que.",2021S0504440,Movable dwelling,55.9,75,115,1.6
+2021,Ontario,2021A000235,Total - Structural type of dwelling,56.1,5491200,14031755,2.6
+2021,Ontario,2021A000235,Single-detached house,56.2,2942995,8395185,2.9
+2021,Ontario,2021A000235,Semi-detached house,56.3,303260,884410,2.9
+2021,Ontario,2021A000235,Row house,56.4,505265,1368165,2.7
+2021,Ontario,2021A000235,Apartment or flat in a duplex,56.5,181030,458045,2.5
+2021,Ontario,2021A000235,Apartment in a building that has fewer than five storeys,56.6,548785,1014270,1.9
+2021,Ontario,2021A000235,Apartment in a building that has five or more storeys,56.7,984665,1860070,1.9
+2021,Ontario,2021A000235,Other single-attached house,56.8,10220,23220,2.3
+2021,Ontario,2021A000235,Movable dwelling,56.9,14985,28375,1.9
+2021,"Barrie (CMA), Ont.",2021S0503568,Total - Structural type of dwelling,57.1,78540,210155,2.7
+2021,"Barrie (CMA), Ont.",2021S0503568,Single-detached house,57.2,53395,156190,2.9
+2021,"Barrie (CMA), Ont.",2021S0503568,Semi-detached house,57.3,2470,6900,2.8
+2021,"Barrie (CMA), Ont.",2021S0503568,Row house,57.4,7020,18045,2.6
+2021,"Barrie (CMA), Ont.",2021S0503568,Apartment or flat in a duplex,57.5,4180,9695,2.3
+2021,"Barrie (CMA), Ont.",2021S0503568,Apartment in a building that has fewer than five storeys,57.6,6895,11940,1.7
+2021,"Barrie (CMA), Ont.",2021S0503568,Apartment in a building that has five or more storeys,57.7,4435,7075,1.6
+2021,"Barrie (CMA), Ont.",2021S0503568,Other single-attached house,57.8,70,170,2.5
+2021,"Barrie (CMA), Ont.",2021S0503568,Movable dwelling,57.9,75,130,1.8
+2021,"Belleville - Quinte West (CMA), Ont.",2021S0503522,Total - Structural type of dwelling,58.1,46210,109245,2.4
+2021,"Belleville - Quinte West (CMA), Ont.",2021S0503522,Single-detached house,58.2,31790,81785,2.6
+2021,"Belleville - Quinte West (CMA), Ont.",2021S0503522,Semi-detached house,58.3,1605,4060,2.5
+2021,"Belleville - Quinte West (CMA), Ont.",2021S0503522,Row house,58.4,2245,5115,2.3
+2021,"Belleville - Quinte West (CMA), Ont.",2021S0503522,Apartment or flat in a duplex,58.5,1035,2290,2.2
+2021,"Belleville - Quinte West (CMA), Ont.",2021S0503522,Apartment in a building that has fewer than five storeys,58.6,6355,10895,1.7
+2021,"Belleville - Quinte West (CMA), Ont.",2021S0503522,Apartment in a building that has five or more storeys,58.7,2635,4010,1.5
+2021,"Belleville - Quinte West (CMA), Ont.",2021S0503522,Other single-attached house,58.8,165,355,2.1
+2021,"Belleville - Quinte West (CMA), Ont.",2021S0503522,Movable dwelling,58.9,390,730,1.9
+2021,"Brantford (CMA), Ont.",2021S0503543,Total - Structural type of dwelling,59.1,56005,141905,2.5
+2021,"Brantford (CMA), Ont.",2021S0503543,Single-detached house,59.2,36830,102285,2.8
+2021,"Brantford (CMA), Ont.",2021S0503543,Semi-detached house,59.3,2905,7760,2.7
+2021,"Brantford (CMA), Ont.",2021S0503543,Row house,59.4,4735,11560,2.4
+2021,"Brantford (CMA), Ont.",2021S0503543,Apartment or flat in a duplex,59.5,1775,3645,2.1
+2021,"Brantford (CMA), Ont.",2021S0503543,Apartment in a building that has fewer than five storeys,59.6,5025,8630,1.7
+2021,"Brantford (CMA), Ont.",2021S0503543,Apartment in a building that has five or more storeys,59.7,4550,7680,1.7
+2021,"Brantford (CMA), Ont.",2021S0503543,Other single-attached house,59.8,105,220,2.1
+2021,"Brantford (CMA), Ont.",2021S0503543,Movable dwelling,59.9,75,130,1.7
+2021,"Brockville (CA), Ont.",2021S0504512,Total - Structural type of dwelling,60.1,14440,30885,2.1
+2021,"Brockville (CA), Ont.",2021S0504512,Single-detached house,60.2,8650,20690,2.4
+2021,"Brockville (CA), Ont.",2021S0504512,Semi-detached house,60.3,990,2195,2.2
+2021,"Brockville (CA), Ont.",2021S0504512,Row house,60.4,850,1780,2.1
+2021,"Brockville (CA), Ont.",2021S0504512,Apartment or flat in a duplex,60.5,125,220,1.8
+2021,"Brockville (CA), Ont.",2021S0504512,Apartment in a building that has fewer than five storeys,60.6,3010,4845,1.6
+2021,"Brockville (CA), Ont.",2021S0504512,Apartment in a building that has five or more storeys,60.7,685,920,1.3
+2021,"Brockville (CA), Ont.",2021S0504512,Other single-attached house,60.8,90,155,1.7
+2021,"Brockville (CA), Ont.",2021S0504512,Movable dwelling,60.9,40,70,1.8
+2021,"Centre Wellington (CA), Ont.",2021S0504531,Total - Structural type of dwelling,61.1,11970,30645,2.6
+2021,"Centre Wellington (CA), Ont.",2021S0504531,Single-detached house,61.2,8690,24360,2.8
+2021,"Centre Wellington (CA), Ont.",2021S0504531,Semi-detached house,61.3,570,1350,2.4
+2021,"Centre Wellington (CA), Ont.",2021S0504531,Row house,61.4,740,1650,2.2
+2021,"Centre Wellington (CA), Ont.",2021S0504531,Apartment or flat in a duplex,61.5,180,340,1.9
+2021,"Centre Wellington (CA), Ont.",2021S0504531,Apartment in a building that has fewer than five storeys,61.6,1575,2560,1.6
+2021,"Centre Wellington (CA), Ont.",2021S0504531,Apartment in a building that has five or more storeys,61.7,110,160,1.5
+2021,"Centre Wellington (CA), Ont.",2021S0504531,Other single-attached house,61.8,15,30,1.9
+2021,"Centre Wellington (CA), Ont.",2021S0504531,Movable dwelling,61.9,105,200,2.0
+2021,"Chatham-Kent (CA), Ont.",2021S0504556,Total - Structural type of dwelling,62.1,44180,102095,2.3
+2021,"Chatham-Kent (CA), Ont.",2021S0504556,Single-detached house,62.2,33580,82750,2.5
+2021,"Chatham-Kent (CA), Ont.",2021S0504556,Semi-detached house,62.3,1445,3215,2.2
+2021,"Chatham-Kent (CA), Ont.",2021S0504556,Row house,62.4,1540,3565,2.3
+2021,"Chatham-Kent (CA), Ont.",2021S0504556,Apartment or flat in a duplex,62.5,735,1445,2.0
+2021,"Chatham-Kent (CA), Ont.",2021S0504556,Apartment in a building that has fewer than five storeys,62.6,5090,8440,1.7
+2021,"Chatham-Kent (CA), Ont.",2021S0504556,Apartment in a building that has five or more storeys,62.7,1540,2215,1.4
+2021,"Chatham-Kent (CA), Ont.",2021S0504556,Other single-attached house,62.8,80,155,2.0
+2021,"Chatham-Kent (CA), Ont.",2021S0504556,Movable dwelling,62.9,175,305,1.8
+2021,"Cobourg (CA), Ont.",2021S0504527,Total - Structural type of dwelling,63.1,9135,19780,2.2
+2021,"Cobourg (CA), Ont.",2021S0504527,Single-detached house,63.2,5255,12840,2.4
+2021,"Cobourg (CA), Ont.",2021S0504527,Semi-detached house,63.3,405,900,2.2
+2021,"Cobourg (CA), Ont.",2021S0504527,Row house,63.4,1120,2365,2.1
+2021,"Cobourg (CA), Ont.",2021S0504527,Apartment or flat in a duplex,63.5,170,340,2.0
+2021,"Cobourg (CA), Ont.",2021S0504527,Apartment in a building that has fewer than five storeys,63.6,1785,2725,1.5
+2021,"Cobourg (CA), Ont.",2021S0504527,Apartment in a building that has five or more storeys,63.7,365,540,1.5
+2021,"Cobourg (CA), Ont.",2021S0504527,Other single-attached house,63.8,30,65,2.1
+2021,"Cobourg (CA), Ont.",2021S0504527,Movable dwelling,63.9,0,0,0.0
+2021,"Collingwood (CA), Ont.",2021S0504567,Total - Structural type of dwelling,64.1,11175,24270,2.2
+2021,"Collingwood (CA), Ont.",2021S0504567,Single-detached house,64.2,6300,15525,2.5
+2021,"Collingwood (CA), Ont.",2021S0504567,Semi-detached house,64.3,755,1745,2.3
+2021,"Collingwood (CA), Ont.",2021S0504567,Row house,64.4,1380,2675,1.9
+2021,"Collingwood (CA), Ont.",2021S0504567,Apartment or flat in a duplex,64.5,255,580,2.3
+2021,"Collingwood (CA), Ont.",2021S0504567,Apartment in a building that has fewer than five storeys,64.6,2005,3050,1.5
+2021,"Collingwood (CA), Ont.",2021S0504567,Apartment in a building that has five or more storeys,64.7,455,660,1.5
+2021,"Collingwood (CA), Ont.",2021S0504567,Other single-attached house,64.8,25,40,1.5
+2021,"Collingwood (CA), Ont.",2021S0504567,Movable dwelling,64.9,0,0,0.0
+2021,"Cornwall (CA), Ont.",2021S0504501,Total - Structural type of dwelling,65.1,26800,59750,2.2
+2021,"Cornwall (CA), Ont.",2021S0504501,Single-detached house,65.2,15400,37710,2.5
+2021,"Cornwall (CA), Ont.",2021S0504501,Semi-detached house,65.3,2270,5605,2.5
+2021,"Cornwall (CA), Ont.",2021S0504501,Row house,65.4,1270,3405,2.7
+2021,"Cornwall (CA), Ont.",2021S0504501,Apartment or flat in a duplex,65.5,1810,3595,2.0
+2021,"Cornwall (CA), Ont.",2021S0504501,Apartment in a building that has fewer than five storeys,65.6,4660,7535,1.6
+2021,"Cornwall (CA), Ont.",2021S0504501,Apartment in a building that has five or more storeys,65.7,1150,1480,1.3
+2021,"Cornwall (CA), Ont.",2021S0504501,Other single-attached house,65.8,120,230,1.9
+2021,"Cornwall (CA), Ont.",2021S0504501,Movable dwelling,65.9,115,190,1.7
+2021,"Elliot Lake (CA), Ont.",2021S0504582,Total - Structural type of dwelling,66.1,5840,11225,1.9
+2021,"Elliot Lake (CA), Ont.",2021S0504582,Single-detached house,66.2,2630,5720,2.2
+2021,"Elliot Lake (CA), Ont.",2021S0504582,Semi-detached house,66.3,1100,2295,2.1
+2021,"Elliot Lake (CA), Ont.",2021S0504582,Row house,66.4,600,1180,2.0
+2021,"Elliot Lake (CA), Ont.",2021S0504582,Apartment or flat in a duplex,66.5,55,70,1.3
+2021,"Elliot Lake (CA), Ont.",2021S0504582,Apartment in a building that has fewer than five storeys,66.6,880,1195,1.4
+2021,"Elliot Lake (CA), Ont.",2021S0504582,Apartment in a building that has five or more storeys,66.7,575,765,1.3
+2021,"Elliot Lake (CA), Ont.",2021S0504582,Other single-attached house,66.8,0,0,0.0
+2021,"Elliot Lake (CA), Ont.",2021S0504582,Movable dwelling,66.9,0,0,0.0
+2021,"Essa (CA), Ont.",2021S0504563,Total - Structural type of dwelling,67.1,7950,22790,2.9
+2021,"Essa (CA), Ont.",2021S0504563,Single-detached house,67.2,6110,18015,3.0
+2021,"Essa (CA), Ont.",2021S0504563,Semi-detached house,67.3,795,2340,2.9
+2021,"Essa (CA), Ont.",2021S0504563,Row house,67.4,470,1270,2.7
+2021,"Essa (CA), Ont.",2021S0504563,Apartment or flat in a duplex,67.5,155,415,2.7
+2021,"Essa (CA), Ont.",2021S0504563,Apartment in a building that has fewer than five storeys,67.6,225,445,2.0
+2021,"Essa (CA), Ont.",2021S0504563,Apartment in a building that has five or more storeys,67.7,60,80,1.4
+2021,"Essa (CA), Ont.",2021S0504563,Other single-attached house,67.8,15,25,1.7
+2021,"Essa (CA), Ont.",2021S0504563,Movable dwelling,67.9,115,190,1.6
+2021,"Greater Sudbury (CMA), Ont.",2021S0503580,Total - Structural type of dwelling,68.1,73390,167620,2.3
+2021,"Greater Sudbury (CMA), Ont.",2021S0503580,Single-detached house,68.2,45030,114505,2.5
+2021,"Greater Sudbury (CMA), Ont.",2021S0503580,Semi-detached house,68.3,3295,8030,2.4
+2021,"Greater Sudbury (CMA), Ont.",2021S0503580,Row house,68.4,2935,7375,2.5
+2021,"Greater Sudbury (CMA), Ont.",2021S0503580,Apartment or flat in a duplex,68.5,4485,9130,2.0
+2021,"Greater Sudbury (CMA), Ont.",2021S0503580,Apartment in a building that has fewer than five storeys,68.6,12125,20100,1.7
+2021,"Greater Sudbury (CMA), Ont.",2021S0503580,Apartment in a building that has five or more storeys,68.7,4790,7070,1.5
+2021,"Greater Sudbury (CMA), Ont.",2021S0503580,Other single-attached house,68.8,135,290,2.1
+2021,"Greater Sudbury (CMA), Ont.",2021S0503580,Movable dwelling,68.9,590,1120,1.9
+2021,"Guelph (CMA), Ont.",2021S0503550,Total - Structural type of dwelling,69.1,64175,163485,2.6
+2021,"Guelph (CMA), Ont.",2021S0503550,Single-detached house,69.2,34330,98995,2.9
+2021,"Guelph (CMA), Ont.",2021S0503550,Semi-detached house,69.3,2595,7250,2.8
+2021,"Guelph (CMA), Ont.",2021S0503550,Row house,69.4,8935,22285,2.5
+2021,"Guelph (CMA), Ont.",2021S0503550,Apartment or flat in a duplex,69.5,3720,8850,2.4
+2021,"Guelph (CMA), Ont.",2021S0503550,Apartment in a building that has fewer than five storeys,69.6,7955,13965,1.8
+2021,"Guelph (CMA), Ont.",2021S0503550,Apartment in a building that has five or more storeys,69.7,6510,11890,1.8
+2021,"Guelph (CMA), Ont.",2021S0503550,Other single-attached house,69.8,60,135,2.2
+2021,"Guelph (CMA), Ont.",2021S0503550,Movable dwelling,69.9,70,120,1.7
+2021,"Hamilton (CMA), Ont.",2021S0503537,Total - Structural type of dwelling,70.1,307385,773440,2.5
+2021,"Hamilton (CMA), Ont.",2021S0503537,Single-detached house,70.2,169265,485095,2.9
+2021,"Hamilton (CMA), Ont.",2021S0503537,Semi-detached house,70.3,10110,28090,2.8
+2021,"Hamilton (CMA), Ont.",2021S0503537,Row house,70.4,43780,110740,2.5
+2021,"Hamilton (CMA), Ont.",2021S0503537,Apartment or flat in a duplex,70.5,8295,19180,2.3
+2021,"Hamilton (CMA), Ont.",2021S0503537,Apartment in a building that has fewer than five storeys,70.6,25565,43060,1.7
+2021,"Hamilton (CMA), Ont.",2021S0503537,Apartment in a building that has five or more storeys,70.7,49645,85675,1.7
+2021,"Hamilton (CMA), Ont.",2021S0503537,Other single-attached house,70.8,560,1270,2.3
+2021,"Hamilton (CMA), Ont.",2021S0503537,Movable dwelling,70.9,165,335,2.1
+2021,"Hawkesbury (CA), Ont./Que.",2021S0504502,Total - Structural type of dwelling,71.1,5985,11640,2.0
+2021,"Hawkesbury (CA), Ont./Que.",2021S0504502,Single-detached house,71.2,2245,5105,2.3
+2021,"Hawkesbury (CA), Ont./Que.",2021S0504502,Semi-detached house,71.3,740,1700,2.3
+2021,"Hawkesbury (CA), Ont./Que.",2021S0504502,Row house,71.4,310,605,1.9
+2021,"Hawkesbury (CA), Ont./Que.",2021S0504502,Apartment or flat in a duplex,71.5,920,1625,1.8
+2021,"Hawkesbury (CA), Ont./Que.",2021S0504502,Apartment in a building that has fewer than five storeys,71.6,1720,2525,1.5
+2021,"Hawkesbury (CA), Ont./Que.",2021S0504502,Apartment in a building that has five or more storeys,71.7,0,0,0.0
+2021,"Hawkesbury (CA), Ont./Que.",2021S0504502,Other single-attached house,71.8,35,65,1.9
+2021,"Hawkesbury (CA), Ont./Que.",2021S0504502,Movable dwelling,71.9,0,5,0.0
+2021,"Hawkesbury (Ontario part) (CA), Ont.",2021S050635502,Total - Structural type of dwelling,72.1,5080,9825,1.9
+2021,"Hawkesbury (Ontario part) (CA), Ont.",2021S050635502,Single-detached house,72.2,1820,4135,2.3
+2021,"Hawkesbury (Ontario part) (CA), Ont.",2021S050635502,Semi-detached house,72.3,685,1565,2.3
+2021,"Hawkesbury (Ontario part) (CA), Ont.",2021S050635502,Row house,72.4,260,520,2.0
+2021,"Hawkesbury (Ontario part) (CA), Ont.",2021S050635502,Apartment or flat in a duplex,72.5,815,1420,1.8
+2021,"Hawkesbury (Ontario part) (CA), Ont.",2021S050635502,Apartment in a building that has fewer than five storeys,72.6,1475,2135,1.5
+2021,"Hawkesbury (Ontario part) (CA), Ont.",2021S050635502,Apartment in a building that has five or more storeys,72.7,0,0,0.0
+2021,"Hawkesbury (Ontario part) (CA), Ont.",2021S050635502,Other single-attached house,72.8,30,55,1.8
+2021,"Hawkesbury (Ontario part) (CA), Ont.",2021S050635502,Movable dwelling,72.9,0,0,0.0
+2021,"Hawkesbury (Quebec part) (CA), Que.",2021S050624502,Total - Structural type of dwelling,73.1,900,1815,2.0
+2021,"Hawkesbury (Quebec part) (CA), Que.",2021S050624502,Single-detached house,73.2,430,970,2.3
+2021,"Hawkesbury (Quebec part) (CA), Que.",2021S050624502,Semi-detached house,73.3,55,140,2.5
+2021,"Hawkesbury (Quebec part) (CA), Que.",2021S050624502,Row house,73.4,50,85,1.7
+2021,"Hawkesbury (Quebec part) (CA), Que.",2021S050624502,Apartment or flat in a duplex,73.5,105,210,1.9
+2021,"Hawkesbury (Quebec part) (CA), Que.",2021S050624502,Apartment in a building that has fewer than five storeys,73.6,250,395,1.6
+2021,"Hawkesbury (Quebec part) (CA), Que.",2021S050624502,Apartment in a building that has five or more storeys,73.7,0,0,0.0
+2021,"Hawkesbury (Quebec part) (CA), Que.",2021S050624502,Other single-attached house,73.8,10,15,2.0
+2021,"Hawkesbury (Quebec part) (CA), Que.",2021S050624502,Movable dwelling,73.9,0,5,0.0
+2021,"Ingersoll (CA), Ont.",2021S0504533,Total - Structural type of dwelling,74.1,5470,13545,2.5
+2021,"Ingersoll (CA), Ont.",2021S0504533,Single-detached house,74.2,3890,10455,2.7
+2021,"Ingersoll (CA), Ont.",2021S0504533,Semi-detached house,74.3,405,970,2.4
+2021,"Ingersoll (CA), Ont.",2021S0504533,Row house,74.4,385,930,2.4
+2021,"Ingersoll (CA), Ont.",2021S0504533,Apartment or flat in a duplex,74.5,85,175,2.1
+2021,"Ingersoll (CA), Ont.",2021S0504533,Apartment in a building that has fewer than five storeys,74.6,625,920,1.5
+2021,"Ingersoll (CA), Ont.",2021S0504533,Apartment in a building that has five or more storeys,74.7,70,75,1.1
+2021,"Ingersoll (CA), Ont.",2021S0504533,Other single-attached house,74.8,5,20,2.4
+2021,"Ingersoll (CA), Ont.",2021S0504533,Movable dwelling,74.9,5,5,
+2021,"Kawartha Lakes (CA), Ont.",2021S0504530,Total - Structural type of dwelling,75.1,32705,77230,2.4
+2021,"Kawartha Lakes (CA), Ont.",2021S0504530,Single-detached house,75.2,27400,67685,2.5
+2021,"Kawartha Lakes (CA), Ont.",2021S0504530,Semi-detached house,75.3,555,1330,2.4
+2021,"Kawartha Lakes (CA), Ont.",2021S0504530,Row house,75.4,655,1345,2.1
+2021,"Kawartha Lakes (CA), Ont.",2021S0504530,Apartment or flat in a duplex,75.5,840,1825,2.2
+2021,"Kawartha Lakes (CA), Ont.",2021S0504530,Apartment in a building that has fewer than five storeys,75.6,2220,3455,1.6
+2021,"Kawartha Lakes (CA), Ont.",2021S0504530,Apartment in a building that has five or more storeys,75.7,730,1015,1.4
+2021,"Kawartha Lakes (CA), Ont.",2021S0504530,Other single-attached house,75.8,80,165,2.0
+2021,"Kawartha Lakes (CA), Ont.",2021S0504530,Movable dwelling,75.9,230,415,1.8
+2021,"Kenora (CA), Ont.",2021S0504598,Total - Structural type of dwelling,76.1,6510,14610,2.2
+2021,"Kenora (CA), Ont.",2021S0504598,Single-detached house,76.2,5020,11915,2.4
+2021,"Kenora (CA), Ont.",2021S0504598,Semi-detached house,76.3,170,410,2.4
+2021,"Kenora (CA), Ont.",2021S0504598,Row house,76.4,85,215,2.5
+2021,"Kenora (CA), Ont.",2021S0504598,Apartment or flat in a duplex,76.5,245,500,2.0
+2021,"Kenora (CA), Ont.",2021S0504598,Apartment in a building that has fewer than five storeys,76.6,715,1150,1.6
+2021,"Kenora (CA), Ont.",2021S0504598,Apartment in a building that has five or more storeys,76.7,165,205,1.3
+2021,"Kenora (CA), Ont.",2021S0504598,Other single-attached house,76.8,20,30,1.6
+2021,"Kenora (CA), Ont.",2021S0504598,Movable dwelling,76.9,85,185,2.1
+2021,"Kingston (CMA), Ont.",2021S0503521,Total - Structural type of dwelling,77.1,73505,168075,2.3
+2021,"Kingston (CMA), Ont.",2021S0503521,Single-detached house,77.2,41670,107280,2.6
+2021,"Kingston (CMA), Ont.",2021S0503521,Semi-detached house,77.3,4575,11375,2.5
+2021,"Kingston (CMA), Ont.",2021S0503521,Row house,77.4,4605,11475,2.5
+2021,"Kingston (CMA), Ont.",2021S0503521,Apartment or flat in a duplex,77.5,2400,4865,2.0
+2021,"Kingston (CMA), Ont.",2021S0503521,Apartment in a building that has fewer than five storeys,77.6,9920,16425,1.7
+2021,"Kingston (CMA), Ont.",2021S0503521,Apartment in a building that has five or more storeys,77.7,9880,15865,1.6
+2021,"Kingston (CMA), Ont.",2021S0503521,Other single-attached house,77.8,140,260,1.9
+2021,"Kingston (CMA), Ont.",2021S0503521,Movable dwelling,77.9,315,530,1.7
+2021,"Kitchener - Cambridge - Waterloo (CMA), Ont.",2021S0503541,Total - Structural type of dwelling,78.1,219060,568065,2.6
+2021,"Kitchener - Cambridge - Waterloo (CMA), Ont.",2021S0503541,Single-detached house,78.2,116050,342290,3.0
+2021,"Kitchener - Cambridge - Waterloo (CMA), Ont.",2021S0503541,Semi-detached house,78.3,12910,36765,2.9
+2021,"Kitchener - Cambridge - Waterloo (CMA), Ont.",2021S0503541,Row house,78.4,25590,67355,2.6
+2021,"Kitchener - Cambridge - Waterloo (CMA), Ont.",2021S0503541,Apartment or flat in a duplex,78.5,6245,14590,2.3
+2021,"Kitchener - Cambridge - Waterloo (CMA), Ont.",2021S0503541,Apartment in a building that has fewer than five storeys,78.6,29040,53095,1.8
+2021,"Kitchener - Cambridge - Waterloo (CMA), Ont.",2021S0503541,Apartment in a building that has five or more storeys,78.7,28680,52900,1.8
+2021,"Kitchener - Cambridge - Waterloo (CMA), Ont.",2021S0503541,Other single-attached house,78.8,300,630,2.1
+2021,"Kitchener - Cambridge - Waterloo (CMA), Ont.",2021S0503541,Movable dwelling,78.9,250,450,1.8
+2021,"London (CMA), Ont.",2021S0503555,Total - Structural type of dwelling,79.1,222240,535775,2.4
+2021,"London (CMA), Ont.",2021S0503555,Single-detached house,79.2,122265,334800,2.7
+2021,"London (CMA), Ont.",2021S0503555,Semi-detached house,79.3,8205,21410,2.6
+2021,"London (CMA), Ont.",2021S0503555,Row house,79.4,24860,62835,2.5
+2021,"London (CMA), Ont.",2021S0503555,Apartment or flat in a duplex,79.5,5245,10800,2.1
+2021,"London (CMA), Ont.",2021S0503555,Apartment in a building that has fewer than five storeys,79.6,22500,37775,1.7
+2021,"London (CMA), Ont.",2021S0503555,Apartment in a building that has five or more storeys,79.7,38340,66640,1.7
+2021,"London (CMA), Ont.",2021S0503555,Other single-attached house,79.8,240,525,2.2
+2021,"London (CMA), Ont.",2021S0503555,Movable dwelling,79.9,580,985,1.7
+2021,"Midland (CA), Ont.",2021S0504571,Total - Structural type of dwelling,80.1,11825,26360,2.2
+2021,"Midland (CA), Ont.",2021S0504571,Single-detached house,80.2,7805,18960,2.4
+2021,"Midland (CA), Ont.",2021S0504571,Semi-detached house,80.3,465,1150,2.5
+2021,"Midland (CA), Ont.",2021S0504571,Row house,80.4,535,1040,1.9
+2021,"Midland (CA), Ont.",2021S0504571,Apartment or flat in a duplex,80.5,775,1655,2.2
+2021,"Midland (CA), Ont.",2021S0504571,Apartment in a building that has fewer than five storeys,80.6,1620,2615,1.6
+2021,"Midland (CA), Ont.",2021S0504571,Apartment in a building that has five or more storeys,80.7,530,795,1.5
+2021,"Midland (CA), Ont.",2021S0504571,Other single-attached house,80.8,85,145,1.7
+2021,"Midland (CA), Ont.",2021S0504571,Movable dwelling,80.9,10,15,1.8
+2021,"Norfolk (CA), Ont.",2021S0504547,Total - Structural type of dwelling,81.1,27595,66225,2.4
+2021,"Norfolk (CA), Ont.",2021S0504547,Single-detached house,81.2,22815,57740,2.5
+2021,"Norfolk (CA), Ont.",2021S0504547,Semi-detached house,81.3,770,1755,2.3
+2021,"Norfolk (CA), Ont.",2021S0504547,Row house,81.4,940,1695,1.8
+2021,"Norfolk (CA), Ont.",2021S0504547,Apartment or flat in a duplex,81.5,565,1135,2.0
+2021,"Norfolk (CA), Ont.",2021S0504547,Apartment in a building that has fewer than five storeys,81.6,1890,2915,1.5
+2021,"Norfolk (CA), Ont.",2021S0504547,Apartment in a building that has five or more storeys,81.7,390,575,1.5
+2021,"Norfolk (CA), Ont.",2021S0504547,Other single-attached house,81.8,90,185,2.0
+2021,"Norfolk (CA), Ont.",2021S0504547,Movable dwelling,81.9,130,230,1.8
+2021,"North Bay (CA), Ont.",2021S0504575,Total - Structural type of dwelling,82.1,31180,70175,2.3
+2021,"North Bay (CA), Ont.",2021S0504575,Single-detached house,82.2,18570,45740,2.5
+2021,"North Bay (CA), Ont.",2021S0504575,Semi-detached house,82.3,2215,5765,2.6
+2021,"North Bay (CA), Ont.",2021S0504575,Row house,82.4,2110,4920,2.3
+2021,"North Bay (CA), Ont.",2021S0504575,Apartment or flat in a duplex,82.5,1660,3510,2.1
+2021,"North Bay (CA), Ont.",2021S0504575,Apartment in a building that has fewer than five storeys,82.6,4310,7020,1.6
+2021,"North Bay (CA), Ont.",2021S0504575,Apartment in a building that has five or more storeys,82.7,2080,2750,1.3
+2021,"North Bay (CA), Ont.",2021S0504575,Other single-attached house,82.8,70,165,2.3
+2021,"North Bay (CA), Ont.",2021S0504575,Movable dwelling,82.9,165,295,1.8
+2021,"Orillia (CA), Ont.",2021S0504569,Total - Structural type of dwelling,83.1,14420,32275,2.2
+2021,"Orillia (CA), Ont.",2021S0504569,Single-detached house,83.2,8035,20090,2.5
+2021,"Orillia (CA), Ont.",2021S0504569,Semi-detached house,83.3,355,850,2.4
+2021,"Orillia (CA), Ont.",2021S0504569,Row house,83.4,1245,3115,2.5
+2021,"Orillia (CA), Ont.",2021S0504569,Apartment or flat in a duplex,83.5,910,2020,2.2
+2021,"Orillia (CA), Ont.",2021S0504569,Apartment in a building that has fewer than five storeys,83.6,2755,4335,1.6
+2021,"Orillia (CA), Ont.",2021S0504569,Apartment in a building that has five or more storeys,83.7,920,1530,1.7
+2021,"Orillia (CA), Ont.",2021S0504569,Other single-attached house,83.8,35,65,2.0
+2021,"Orillia (CA), Ont.",2021S0504569,Movable dwelling,83.9,165,270,1.6
+2021,"Oshawa (CMA), Ont.",2021S0503532,Total - Structural type of dwelling,84.1,149050,411400,2.8
+2021,"Oshawa (CMA), Ont.",2021S0503532,Single-detached house,84.2,97240,294485,3.0
+2021,"Oshawa (CMA), Ont.",2021S0503532,Semi-detached house,84.3,7790,21960,2.8
+2021,"Oshawa (CMA), Ont.",2021S0503532,Row house,84.4,15705,41570,2.7
+2021,"Oshawa (CMA), Ont.",2021S0503532,Apartment or flat in a duplex,84.5,5425,13015,2.4
+2021,"Oshawa (CMA), Ont.",2021S0503532,Apartment in a building that has fewer than five storeys,84.6,11200,19920,1.8
+2021,"Oshawa (CMA), Ont.",2021S0503532,Apartment in a building that has five or more storeys,84.7,11410,19935,1.8
+2021,"Oshawa (CMA), Ont.",2021S0503532,Other single-attached house,84.8,195,385,2.0
+2021,"Oshawa (CMA), Ont.",2021S0503532,Movable dwelling,84.9,80,135,1.7
+2021,"Ottawa - Gatineau (CMA), Ont./Que.",2021S0503505,Total - Structural type of dwelling,85.1,604720,1464500,2.4
+2021,"Ottawa - Gatineau (CMA), Ont./Que.",2021S0503505,Single-detached house,85.2,272130,762755,2.8
+2021,"Ottawa - Gatineau (CMA), Ont./Que.",2021S0503505,Semi-detached house,85.3,43220,113220,2.6
+2021,"Ottawa - Gatineau (CMA), Ont./Que.",2021S0503505,Row house,85.4,98325,261240,2.7
+2021,"Ottawa - Gatineau (CMA), Ont./Que.",2021S0503505,Apartment or flat in a duplex,85.5,16795,34220,2.0
+2021,"Ottawa - Gatineau (CMA), Ont./Que.",2021S0503505,Apartment in a building that has fewer than five storeys,85.6,87775,152865,1.7
+2021,"Ottawa - Gatineau (CMA), Ont./Que.",2021S0503505,Apartment in a building that has five or more storeys,85.7,84155,135675,1.6
+2021,"Ottawa - Gatineau (CMA), Ont./Que.",2021S0503505,Other single-attached house,85.8,845,1720,2.0
+2021,"Ottawa - Gatineau (CMA), Ont./Que.",2021S0503505,Movable dwelling,85.9,1480,2800,1.9
+2021,"Ottawa - Gatineau (Ontario part) (CMA), Ont.",2021S050535505,Total - Structural type of dwelling,86.1,453580,1116795,2.5
+2021,"Ottawa - Gatineau (Ontario part) (CMA), Ont.",2021S050535505,Single-detached house,86.2,204490,584585,2.9
+2021,"Ottawa - Gatineau (Ontario part) (CMA), Ont.",2021S050535505,Semi-detached house,86.3,24265,63400,2.6
+2021,"Ottawa - Gatineau (Ontario part) (CMA), Ont.",2021S050535505,Row house,86.4,89920,240845,2.7
+2021,"Ottawa - Gatineau (Ontario part) (CMA), Ont.",2021S050535505,Apartment or flat in a duplex,86.5,8435,17805,2.1
+2021,"Ottawa - Gatineau (Ontario part) (CMA), Ont.",2021S050535505,Apartment in a building that has fewer than five storeys,86.6,47535,81595,1.7
+2021,"Ottawa - Gatineau (Ontario part) (CMA), Ont.",2021S050535505,Apartment in a building that has five or more storeys,86.7,77155,125085,1.6
+2021,"Ottawa - Gatineau (Ontario part) (CMA), Ont.",2021S050535505,Other single-attached house,86.8,575,1210,2.1
+2021,"Ottawa - Gatineau (Ontario part) (CMA), Ont.",2021S050535505,Movable dwelling,86.9,1210,2265,1.9
+2021,"Ottawa - Gatineau (Quebec part) (CMA), Que.",2021S050524505,Total - Structural type of dwelling,87.1,151140,347700,2.3
+2021,"Ottawa - Gatineau (Quebec part) (CMA), Que.",2021S050524505,Single-detached house,87.2,67635,178175,2.6
+2021,"Ottawa - Gatineau (Quebec part) (CMA), Que.",2021S050524505,Semi-detached house,87.3,18955,49820,2.6
+2021,"Ottawa - Gatineau (Quebec part) (CMA), Que.",2021S050524505,Row house,87.4,8410,20395,2.4
+2021,"Ottawa - Gatineau (Quebec part) (CMA), Que.",2021S050524505,Apartment or flat in a duplex,87.5,8360,16415,2.0
+2021,"Ottawa - Gatineau (Quebec part) (CMA), Que.",2021S050524505,Apartment in a building that has fewer than five storeys,87.6,40240,71270,1.8
+2021,"Ottawa - Gatineau (Quebec part) (CMA), Que.",2021S050524505,Apartment in a building that has five or more storeys,87.7,7000,10585,1.5
+2021,"Ottawa - Gatineau (Quebec part) (CMA), Que.",2021S050524505,Other single-attached house,87.8,275,510,1.9
+2021,"Ottawa - Gatineau (Quebec part) (CMA), Que.",2021S050524505,Movable dwelling,87.9,270,530,2.0
+2021,"Owen Sound (CA), Ont.",2021S0504566,Total - Structural type of dwelling,88.1,14390,31870,2.2
+2021,"Owen Sound (CA), Ont.",2021S0504566,Single-detached house,88.2,9235,22730,2.5
+2021,"Owen Sound (CA), Ont.",2021S0504566,Semi-detached house,88.3,435,1095,2.5
+2021,"Owen Sound (CA), Ont.",2021S0504566,Row house,88.4,725,1645,2.3
+2021,"Owen Sound (CA), Ont.",2021S0504566,Apartment or flat in a duplex,88.5,295,610,2.1
+2021,"Owen Sound (CA), Ont.",2021S0504566,Apartment in a building that has fewer than five storeys,88.6,2765,4480,1.6
+2021,"Owen Sound (CA), Ont.",2021S0504566,Apartment in a building that has five or more storeys,88.7,735,975,1.3
+2021,"Owen Sound (CA), Ont.",2021S0504566,Other single-attached house,88.8,35,70,2.3
+2021,"Owen Sound (CA), Ont.",2021S0504566,Movable dwelling,88.9,170,275,1.6
+2021,"Pembroke (CA), Ont.",2021S0504515,Total - Structural type of dwelling,89.1,10255,23080,2.3
+2021,"Pembroke (CA), Ont.",2021S0504515,Single-detached house,89.2,7245,17825,2.5
+2021,"Pembroke (CA), Ont.",2021S0504515,Semi-detached house,89.3,590,1225,2.1
+2021,"Pembroke (CA), Ont.",2021S0504515,Row house,89.4,310,720,2.3
+2021,"Pembroke (CA), Ont.",2021S0504515,Apartment or flat in a duplex,89.5,245,485,2.0
+2021,"Pembroke (CA), Ont.",2021S0504515,Apartment in a building that has fewer than five storeys,89.6,1835,2750,1.5
+2021,"Pembroke (CA), Ont.",2021S0504515,Apartment in a building that has five or more storeys,89.7,0,5,0.0
+2021,"Pembroke (CA), Ont.",2021S0504515,Other single-attached house,89.8,30,65,2.2
+2021,"Pembroke (CA), Ont.",2021S0504515,Movable dwelling,89.9,5,15,3.2
+2021,"Petawawa (CA), Ont.",2021S0504516,Total - Structural type of dwelling,90.1,6760,17295,2.6
+2021,"Petawawa (CA), Ont.",2021S0504516,Single-detached house,90.2,4760,12795,2.7
+2021,"Petawawa (CA), Ont.",2021S0504516,Semi-detached house,90.3,455,1310,2.9
+2021,"Petawawa (CA), Ont.",2021S0504516,Row house,90.4,840,2100,2.5
+2021,"Petawawa (CA), Ont.",2021S0504516,Apartment or flat in a duplex,90.5,50,90,2.0
+2021,"Petawawa (CA), Ont.",2021S0504516,Apartment in a building that has fewer than five storeys,90.6,635,955,1.5
+2021,"Petawawa (CA), Ont.",2021S0504516,Apartment in a building that has five or more storeys,90.7,0,0,0.0
+2021,"Petawawa (CA), Ont.",2021S0504516,Other single-attached house,90.8,10,25,2.2
+2021,"Petawawa (CA), Ont.",2021S0504516,Movable dwelling,90.9,5,15,2.4
+2021,"Peterborough (CMA), Ont.",2021S0503529,Total - Structural type of dwelling,91.1,53370,125995,2.4
+2021,"Peterborough (CMA), Ont.",2021S0503529,Single-detached house,91.2,36900,95015,2.6
+2021,"Peterborough (CMA), Ont.",2021S0503529,Semi-detached house,91.3,870,2220,2.5
+2021,"Peterborough (CMA), Ont.",2021S0503529,Row house,91.4,3195,7240,2.3
+2021,"Peterborough (CMA), Ont.",2021S0503529,Apartment or flat in a duplex,91.5,2750,5870,2.1
+2021,"Peterborough (CMA), Ont.",2021S0503529,Apartment in a building that has fewer than five storeys,91.6,6785,10985,1.6
+2021,"Peterborough (CMA), Ont.",2021S0503529,Apartment in a building that has five or more storeys,91.7,2595,4145,1.6
+2021,"Peterborough (CMA), Ont.",2021S0503529,Other single-attached house,91.8,100,215,2.2
+2021,"Peterborough (CMA), Ont.",2021S0503529,Movable dwelling,91.9,170,300,1.8
+2021,"Port Hope (CA), Ont.",2021S0504528,Total - Structural type of dwelling,92.1,7315,16885,2.3
+2021,"Port Hope (CA), Ont.",2021S0504528,Single-detached house,92.2,5285,13185,2.5
+2021,"Port Hope (CA), Ont.",2021S0504528,Semi-detached house,92.3,275,665,2.4
+2021,"Port Hope (CA), Ont.",2021S0504528,Row house,92.4,425,900,2.1
+2021,"Port Hope (CA), Ont.",2021S0504528,Apartment or flat in a duplex,92.5,95,195,2.1
+2021,"Port Hope (CA), Ont.",2021S0504528,Apartment in a building that has fewer than five storeys,92.6,770,1200,1.6
+2021,"Port Hope (CA), Ont.",2021S0504528,Apartment in a building that has five or more storeys,92.7,445,705,1.6
+2021,"Port Hope (CA), Ont.",2021S0504528,Other single-attached house,92.8,15,30,1.9
+2021,"Port Hope (CA), Ont.",2021S0504528,Movable dwelling,92.9,5,10,1.6
+2021,"Sarnia (CA), Ont.",2021S0504562,Total - Structural type of dwelling,93.1,42580,96285,2.3
+2021,"Sarnia (CA), Ont.",2021S0504562,Single-detached house,93.2,30940,75365,2.4
+2021,"Sarnia (CA), Ont.",2021S0504562,Semi-detached house,93.3,1375,3390,2.5
+2021,"Sarnia (CA), Ont.",2021S0504562,Row house,93.4,2170,5165,2.4
+2021,"Sarnia (CA), Ont.",2021S0504562,Apartment or flat in a duplex,93.5,800,1495,1.9
+2021,"Sarnia (CA), Ont.",2021S0504562,Apartment in a building that has fewer than five storeys,93.6,3185,4915,1.5
+2021,"Sarnia (CA), Ont.",2021S0504562,Apartment in a building that has five or more storeys,93.7,3985,5765,1.5
+2021,"Sarnia (CA), Ont.",2021S0504562,Other single-attached house,93.8,70,125,1.7
+2021,"Sarnia (CA), Ont.",2021S0504562,Movable dwelling,93.9,50,70,1.5
+2021,"Sault Ste. Marie (CA), Ont.",2021S0504590,Total - Structural type of dwelling,94.1,34415,75415,2.2
+2021,"Sault Ste. Marie (CA), Ont.",2021S0504590,Single-detached house,94.2,22985,55265,2.4
+2021,"Sault Ste. Marie (CA), Ont.",2021S0504590,Semi-detached house,94.3,1825,4360,2.4
+2021,"Sault Ste. Marie (CA), Ont.",2021S0504590,Row house,94.4,945,2250,2.4
+2021,"Sault Ste. Marie (CA), Ont.",2021S0504590,Apartment or flat in a duplex,94.5,1445,2805,1.9
+2021,"Sault Ste. Marie (CA), Ont.",2021S0504590,Apartment in a building that has fewer than five storeys,94.6,4965,7530,1.5
+2021,"Sault Ste. Marie (CA), Ont.",2021S0504590,Apartment in a building that has five or more storeys,94.7,2060,2880,1.4
+2021,"Sault Ste. Marie (CA), Ont.",2021S0504590,Other single-attached house,94.8,100,170,1.8
+2021,"Sault Ste. Marie (CA), Ont.",2021S0504590,Movable dwelling,94.9,85,155,1.8
+2021,"St. Catharines - Niagara (CMA), Ont.",2021S0503539,Total - Structural type of dwelling,95.1,179225,425480,2.4
+2021,"St. Catharines - Niagara (CMA), Ont.",2021S0503539,Single-detached house,95.2,118195,305150,2.6
+2021,"St. Catharines - Niagara (CMA), Ont.",2021S0503539,Semi-detached house,95.3,9680,24980,2.6
+2021,"St. Catharines - Niagara (CMA), Ont.",2021S0503539,Row house,95.4,12390,28315,2.3
+2021,"St. Catharines - Niagara (CMA), Ont.",2021S0503539,Apartment or flat in a duplex,95.5,6415,13540,2.1
+2021,"St. Catharines - Niagara (CMA), Ont.",2021S0503539,Apartment in a building that has fewer than five storeys,95.6,20985,34465,1.6
+2021,"St. Catharines - Niagara (CMA), Ont.",2021S0503539,Apartment in a building that has five or more storeys,95.7,10430,16745,1.6
+2021,"St. Catharines - Niagara (CMA), Ont.",2021S0503539,Other single-attached house,95.8,580,1155,2.0
+2021,"St. Catharines - Niagara (CMA), Ont.",2021S0503539,Movable dwelling,95.9,550,1130,2.1
+2021,"Stratford (CA), Ont.",2021S0504553,Total - Structural type of dwelling,96.1,14740,32480,2.2
+2021,"Stratford (CA), Ont.",2021S0504553,Single-detached house,96.2,7805,19345,2.5
+2021,"Stratford (CA), Ont.",2021S0504553,Semi-detached house,96.3,1530,3915,2.6
+2021,"Stratford (CA), Ont.",2021S0504553,Row house,96.4,935,2090,2.2
+2021,"Stratford (CA), Ont.",2021S0504553,Apartment or flat in a duplex,96.5,670,1280,1.9
+2021,"Stratford (CA), Ont.",2021S0504553,Apartment in a building that has fewer than five storeys,96.6,2950,4570,1.6
+2021,"Stratford (CA), Ont.",2021S0504553,Apartment in a building that has five or more storeys,96.7,815,1200,1.5
+2021,"Stratford (CA), Ont.",2021S0504553,Other single-attached house,96.8,30,70,2.4
+2021,"Stratford (CA), Ont.",2021S0504553,Movable dwelling,96.9,5,5,
+2021,"Thunder Bay (CMA), Ont.",2021S0503595,Total - Structural type of dwelling,97.1,54210,120960,2.2
+2021,"Thunder Bay (CMA), Ont.",2021S0503595,Single-detached house,97.2,37170,89790,2.4
+2021,"Thunder Bay (CMA), Ont.",2021S0503595,Semi-detached house,97.3,2095,5515,2.6
+2021,"Thunder Bay (CMA), Ont.",2021S0503595,Row house,97.4,1490,3720,2.5
+2021,"Thunder Bay (CMA), Ont.",2021S0503595,Apartment or flat in a duplex,97.5,2435,5020,2.1
+2021,"Thunder Bay (CMA), Ont.",2021S0503595,Apartment in a building that has fewer than five storeys,97.6,7925,12565,1.6
+2021,"Thunder Bay (CMA), Ont.",2021S0503595,Apartment in a building that has five or more storeys,97.7,2580,3345,1.3
+2021,"Thunder Bay (CMA), Ont.",2021S0503595,Other single-attached house,97.8,120,215,1.8
+2021,"Thunder Bay (CMA), Ont.",2021S0503595,Movable dwelling,97.9,405,780,2.0
+2021,"Tillsonburg (CA), Ont.",2021S0504546,Total - Structural type of dwelling,98.1,8230,18295,2.2
+2021,"Tillsonburg (CA), Ont.",2021S0504546,Single-detached house,98.2,5575,13575,2.4
+2021,"Tillsonburg (CA), Ont.",2021S0504546,Semi-detached house,98.3,285,635,2.2
+2021,"Tillsonburg (CA), Ont.",2021S0504546,Row house,98.4,500,1055,2.1
+2021,"Tillsonburg (CA), Ont.",2021S0504546,Apartment or flat in a duplex,98.5,205,430,2.1
+2021,"Tillsonburg (CA), Ont.",2021S0504546,Apartment in a building that has fewer than five storeys,98.6,1135,1790,1.6
+2021,"Tillsonburg (CA), Ont.",2021S0504546,Apartment in a building that has five or more storeys,98.7,500,745,1.5
+2021,"Tillsonburg (CA), Ont.",2021S0504546,Other single-attached house,98.8,25,55,2.2
+2021,"Tillsonburg (CA), Ont.",2021S0504546,Movable dwelling,98.9,10,15,2.0
+2021,"Timmins (CA), Ont.",2021S0504586,Total - Structural type of dwelling,99.1,17885,40310,2.3
+2021,"Timmins (CA), Ont.",2021S0504586,Single-detached house,99.2,11650,28515,2.5
+2021,"Timmins (CA), Ont.",2021S0504586,Semi-detached house,99.3,1185,2835,2.4
+2021,"Timmins (CA), Ont.",2021S0504586,Row house,99.4,605,1475,2.4
+2021,"Timmins (CA), Ont.",2021S0504586,Apartment or flat in a duplex,99.5,1100,2130,1.9
+2021,"Timmins (CA), Ont.",2021S0504586,Apartment in a building that has fewer than five storeys,99.6,2480,4105,1.7
+2021,"Timmins (CA), Ont.",2021S0504586,Apartment in a building that has five or more storeys,99.7,515,610,1.2
+2021,"Timmins (CA), Ont.",2021S0504586,Other single-attached house,99.8,85,160,1.8
+2021,"Timmins (CA), Ont.",2021S0504586,Movable dwelling,99.9,265,480,1.8
+2021,"Toronto (CMA), Ont.",2021S0503535,Total - Structural type of dwelling,100.1,2262475,6142885,2.7
+2021,"Toronto (CMA), Ont.",2021S0503535,Single-detached house,100.2,883125,2881530,3.3
+2021,"Toronto (CMA), Ont.",2021S0503535,Semi-detached house,100.3,164585,522940,3.2
+2021,"Toronto (CMA), Ont.",2021S0503535,Row house,100.4,210100,624465,3.0
+2021,"Toronto (CMA), Ont.",2021S0503535,Apartment or flat in a duplex,100.5,90500,262590,2.9
+2021,"Toronto (CMA), Ont.",2021S0503535,Apartment in a building that has fewer than five storeys,100.6,215325,461540,2.1
+2021,"Toronto (CMA), Ont.",2021S0503535,Apartment in a building that has five or more storeys,100.7,694735,1379180,2.0
+2021,"Toronto (CMA), Ont.",2021S0503535,Other single-attached house,100.8,3470,9295,2.7
+2021,"Toronto (CMA), Ont.",2021S0503535,Movable dwelling,100.9,630,1340,2.1
+2021,"Wasaga Beach (CA), Ont.",2021S0504565,Total - Structural type of dwelling,101.1,10810,24585,2.3
+2021,"Wasaga Beach (CA), Ont.",2021S0504565,Single-detached house,101.2,8935,20905,2.3
+2021,"Wasaga Beach (CA), Ont.",2021S0504565,Semi-detached house,101.3,250,635,2.5
+2021,"Wasaga Beach (CA), Ont.",2021S0504565,Row house,101.4,910,1810,2.0
+2021,"Wasaga Beach (CA), Ont.",2021S0504565,Apartment or flat in a duplex,101.5,145,360,2.5
+2021,"Wasaga Beach (CA), Ont.",2021S0504565,Apartment in a building that has fewer than five storeys,101.6,510,750,1.5
+2021,"Wasaga Beach (CA), Ont.",2021S0504565,Apartment in a building that has five or more storeys,101.7,5,5,
+2021,"Wasaga Beach (CA), Ont.",2021S0504565,Other single-attached house,101.8,25,70,2.8
+2021,"Wasaga Beach (CA), Ont.",2021S0504565,Movable dwelling,101.9,30,50,1.6
+2021,"Windsor (CMA), Ont.",2021S0503559,Total - Structural type of dwelling,102.1,165665,415500,2.5
+2021,"Windsor (CMA), Ont.",2021S0503559,Single-detached house,102.2,115355,317885,2.8
+2021,"Windsor (CMA), Ont.",2021S0503559,Semi-detached house,102.3,7495,19485,2.6
+2021,"Windsor (CMA), Ont.",2021S0503559,Row house,102.4,9235,21410,2.3
+2021,"Windsor (CMA), Ont.",2021S0503559,Apartment or flat in a duplex,102.5,4665,10520,2.3
+2021,"Windsor (CMA), Ont.",2021S0503559,Apartment in a building that has fewer than five storeys,102.6,13905,23325,1.7
+2021,"Windsor (CMA), Ont.",2021S0503559,Apartment in a building that has five or more storeys,102.7,14110,21245,1.5
+2021,"Windsor (CMA), Ont.",2021S0503559,Other single-attached house,102.8,155,350,2.2
+2021,"Windsor (CMA), Ont.",2021S0503559,Movable dwelling,102.9,745,1275,1.7
+2021,"Woodstock (CA), Ont.",2021S0504544,Total - Structural type of dwelling,103.1,18885,45945,2.4
+2021,"Woodstock (CA), Ont.",2021S0504544,Single-detached house,103.2,10855,29920,2.8
+2021,"Woodstock (CA), Ont.",2021S0504544,Semi-detached house,103.3,1450,3805,2.6
+2021,"Woodstock (CA), Ont.",2021S0504544,Row house,103.4,2205,5250,2.4
+2021,"Woodstock (CA), Ont.",2021S0504544,Apartment or flat in a duplex,103.5,385,790,2.0
+2021,"Woodstock (CA), Ont.",2021S0504544,Apartment in a building that has fewer than five storeys,103.6,2285,3610,1.6
+2021,"Woodstock (CA), Ont.",2021S0504544,Apartment in a building that has five or more storeys,103.7,1680,2515,1.5
+2021,"Woodstock (CA), Ont.",2021S0504544,Other single-attached house,103.8,25,55,2.4
+2021,"Woodstock (CA), Ont.",2021S0504544,Movable dwelling,103.9,0,0,0.0
+2021,Manitoba,2021A000246,Total - Structural type of dwelling,104.1,518055,1307185,2.5
+2021,Manitoba,2021A000246,Single-detached house,104.2,343990,957740,2.8
+2021,Manitoba,2021A000246,Semi-detached house,104.3,18185,51560,2.8
+2021,Manitoba,2021A000246,Row house,104.4,19720,50225,2.6
+2021,Manitoba,2021A000246,Apartment or flat in a duplex,104.5,7445,17940,2.4
+2021,Manitoba,2021A000246,Apartment in a building that has fewer than five storeys,104.6,74865,135380,1.8
+2021,Manitoba,2021A000246,Apartment in a building that has five or more storeys,104.7,43665,71160,1.6
+2021,Manitoba,2021A000246,Other single-attached house,104.8,600,1360,2.3
+2021,Manitoba,2021A000246,Movable dwelling,104.9,9590,21820,2.3
+2021,"Brandon (CA), Man.",2021S0504610,Total - Structural type of dwelling,105.1,22285,52750,2.4
+2021,"Brandon (CA), Man.",2021S0504610,Single-detached house,105.2,12075,32070,2.7
+2021,"Brandon (CA), Man.",2021S0504610,Semi-detached house,105.3,915,2380,2.6
+2021,"Brandon (CA), Man.",2021S0504610,Row house,105.4,1600,4185,2.6
+2021,"Brandon (CA), Man.",2021S0504610,Apartment or flat in a duplex,105.5,530,1235,2.3
+2021,"Brandon (CA), Man.",2021S0504610,Apartment in a building that has fewer than five storeys,105.6,5220,9685,1.9
+2021,"Brandon (CA), Man.",2021S0504610,Apartment in a building that has five or more storeys,105.7,725,855,1.2
+2021,"Brandon (CA), Man.",2021S0504610,Other single-attached house,105.8,35,65,1.9
+2021,"Brandon (CA), Man.",2021S0504610,Movable dwelling,105.9,1190,2270,1.9
+2021,"Portage la Prairie (CA), Man.",2021S0504607,Total - Structural type of dwelling,106.1,5640,12830,2.3
+2021,"Portage la Prairie (CA), Man.",2021S0504607,Single-detached house,106.2,3970,9750,2.5
+2021,"Portage la Prairie (CA), Man.",2021S0504607,Semi-detached house,106.3,145,365,2.6
+2021,"Portage la Prairie (CA), Man.",2021S0504607,Row house,106.4,345,895,2.6
+2021,"Portage la Prairie (CA), Man.",2021S0504607,Apartment or flat in a duplex,106.5,45,95,2.1
+2021,"Portage la Prairie (CA), Man.",2021S0504607,Apartment in a building that has fewer than five storeys,106.6,800,1220,1.5
+2021,"Portage la Prairie (CA), Man.",2021S0504607,Apartment in a building that has five or more storeys,106.7,260,335,1.3
+2021,"Portage la Prairie (CA), Man.",2021S0504607,Other single-attached house,106.8,5,20,2.8
+2021,"Portage la Prairie (CA), Man.",2021S0504607,Movable dwelling,106.9,85,155,1.9
+2021,"Steinbach (CA), Man.",2021S0504605,Total - Structural type of dwelling,107.1,6835,17580,2.6
+2021,"Steinbach (CA), Man.",2021S0504605,Single-detached house,107.2,3755,11460,3.1
+2021,"Steinbach (CA), Man.",2021S0504605,Semi-detached house,107.3,625,1610,2.6
+2021,"Steinbach (CA), Man.",2021S0504605,Row house,107.4,295,535,1.8
+2021,"Steinbach (CA), Man.",2021S0504605,Apartment or flat in a duplex,107.5,260,550,2.2
+2021,"Steinbach (CA), Man.",2021S0504605,Apartment in a building that has fewer than five storeys,107.6,1490,2800,1.9
+2021,"Steinbach (CA), Man.",2021S0504605,Apartment in a building that has five or more storeys,107.7,250,285,1.1
+2021,"Steinbach (CA), Man.",2021S0504605,Other single-attached house,107.8,10,15,2.4
+2021,"Steinbach (CA), Man.",2021S0504605,Movable dwelling,107.9,160,320,2.0
+2021,"Thompson (CA), Man.",2021S0504640,Total - Structural type of dwelling,108.1,4675,12885,2.8
+2021,"Thompson (CA), Man.",2021S0504640,Single-detached house,108.2,2300,6965,3.0
+2021,"Thompson (CA), Man.",2021S0504640,Semi-detached house,108.3,165,585,3.5
+2021,"Thompson (CA), Man.",2021S0504640,Row house,108.4,440,1490,3.4
+2021,"Thompson (CA), Man.",2021S0504640,Apartment or flat in a duplex,108.5,5,15,3.2
+2021,"Thompson (CA), Man.",2021S0504640,Apartment in a building that has fewer than five storeys,108.6,1180,2410,2.1
+2021,"Thompson (CA), Man.",2021S0504640,Apartment in a building that has five or more storeys,108.7,150,365,2.4
+2021,"Thompson (CA), Man.",2021S0504640,Other single-attached house,108.8,5,15,3.6
+2021,"Thompson (CA), Man.",2021S0504640,Movable dwelling,108.9,435,1050,2.4
+2021,"Winkler (CA), Man.",2021S0504603,Total - Structural type of dwelling,109.1,11365,32215,2.8
+2021,"Winkler (CA), Man.",2021S0504603,Single-detached house,109.2,7940,25335,3.2
+2021,"Winkler (CA), Man.",2021S0504603,Semi-detached house,109.3,690,1730,2.5
+2021,"Winkler (CA), Man.",2021S0504603,Row house,109.4,1030,1980,1.9
+2021,"Winkler (CA), Man.",2021S0504603,Apartment or flat in a duplex,109.5,55,115,2.1
+2021,"Winkler (CA), Man.",2021S0504603,Apartment in a building that has fewer than five storeys,109.6,845,1435,1.7
+2021,"Winkler (CA), Man.",2021S0504603,Apartment in a building that has five or more storeys,109.7,355,450,1.3
+2021,"Winkler (CA), Man.",2021S0504603,Other single-attached house,109.8,5,20,2.8
+2021,"Winkler (CA), Man.",2021S0504603,Movable dwelling,109.9,440,1145,2.6
+2021,"Winnipeg (CMA), Man.",2021S0503602,Total - Structural type of dwelling,110.1,330325,819715,2.5
+2021,"Winnipeg (CMA), Man.",2021S0503602,Single-detached house,110.2,199120,558565,2.8
+2021,"Winnipeg (CMA), Man.",2021S0503602,Semi-detached house,110.3,12395,36330,2.9
+2021,"Winnipeg (CMA), Man.",2021S0503602,Row house,110.4,12290,33060,2.7
+2021,"Winnipeg (CMA), Man.",2021S0503602,Apartment or flat in a duplex,110.5,5600,13670,2.4
+2021,"Winnipeg (CMA), Man.",2021S0503602,Apartment in a building that has fewer than five storeys,110.6,57665,106095,1.8
+2021,"Winnipeg (CMA), Man.",2021S0503602,Apartment in a building that has five or more storeys,110.7,41295,67860,1.6
+2021,"Winnipeg (CMA), Man.",2021S0503602,Other single-attached house,110.8,310,730,2.3
+2021,"Winnipeg (CMA), Man.",2021S0503602,Movable dwelling,110.9,1655,3405,2.1
+2021,Saskatchewan,2021A000247,Total - Structural type of dwelling,111.1,449580,1103200,2.5
+2021,Saskatchewan,2021A000247,Single-detached house,111.2,322070,848435,2.6
+2021,Saskatchewan,2021A000247,Semi-detached house,111.3,13680,34800,2.5
+2021,Saskatchewan,2021A000247,Row house,111.4,19860,46755,2.4
+2021,Saskatchewan,2021A000247,Apartment or flat in a duplex,111.5,11240,25610,2.3
+2021,Saskatchewan,2021A000247,Apartment in a building that has fewer than five storeys,111.6,61855,109745,1.8
+2021,Saskatchewan,2021A000247,Apartment in a building that has five or more storeys,111.7,11040,15625,1.4
+2021,Saskatchewan,2021A000247,Other single-attached house,111.8,755,1530,2.0
+2021,Saskatchewan,2021A000247,Movable dwelling,111.9,9090,20705,2.3
+2021,"Estevan (CA), Sask.",2021S0504750,Total - Structural type of dwelling,112.1,5340,12555,2.4
+2021,"Estevan (CA), Sask.",2021S0504750,Single-detached house,112.2,3680,9460,2.6
+2021,"Estevan (CA), Sask.",2021S0504750,Semi-detached house,112.3,160,380,2.3
+2021,"Estevan (CA), Sask.",2021S0504750,Row house,112.4,160,305,1.9
+2021,"Estevan (CA), Sask.",2021S0504750,Apartment or flat in a duplex,112.5,75,180,2.4
+2021,"Estevan (CA), Sask.",2021S0504750,Apartment in a building that has fewer than five storeys,112.6,935,1490,1.6
+2021,"Estevan (CA), Sask.",2021S0504750,Apartment in a building that has five or more storeys,112.7,45,55,1.2
+2021,"Estevan (CA), Sask.",2021S0504750,Other single-attached house,112.8,10,20,1.8
+2021,"Estevan (CA), Sask.",2021S0504750,Movable dwelling,112.9,280,675,2.4
+2021,"Moose Jaw (CA), Sask.",2021S0504715,Total - Structural type of dwelling,113.1,15215,34155,2.2
+2021,"Moose Jaw (CA), Sask.",2021S0504715,Single-detached house,113.2,10755,26295,2.4
+2021,"Moose Jaw (CA), Sask.",2021S0504715,Semi-detached house,113.3,430,1155,2.7
+2021,"Moose Jaw (CA), Sask.",2021S0504715,Row house,113.4,440,1010,2.3
+2021,"Moose Jaw (CA), Sask.",2021S0504715,Apartment or flat in a duplex,113.5,355,730,2.0
+2021,"Moose Jaw (CA), Sask.",2021S0504715,Apartment in a building that has fewer than five storeys,113.6,2250,3560,1.6
+2021,"Moose Jaw (CA), Sask.",2021S0504715,Apartment in a building that has five or more storeys,113.7,635,765,1.2
+2021,"Moose Jaw (CA), Sask.",2021S0504715,Other single-attached house,113.8,75,135,1.8
+2021,"Moose Jaw (CA), Sask.",2021S0504715,Movable dwelling,113.9,270,510,1.9
+2021,"North Battleford (CA), Sask.",2021S0504735,Total - Structural type of dwelling,114.1,7865,18785,2.4
+2021,"North Battleford (CA), Sask.",2021S0504735,Single-detached house,114.2,5625,14595,2.6
+2021,"North Battleford (CA), Sask.",2021S0504735,Semi-detached house,114.3,265,645,2.4
+2021,"North Battleford (CA), Sask.",2021S0504735,Row house,114.4,250,510,2.1
+2021,"North Battleford (CA), Sask.",2021S0504735,Apartment or flat in a duplex,114.5,110,285,2.5
+2021,"North Battleford (CA), Sask.",2021S0504735,Apartment in a building that has fewer than five storeys,114.6,1195,2005,1.7
+2021,"North Battleford (CA), Sask.",2021S0504735,Apartment in a building that has five or more storeys,114.7,150,170,1.2
+2021,"North Battleford (CA), Sask.",2021S0504735,Other single-attached house,114.8,35,55,1.4
+2021,"North Battleford (CA), Sask.",2021S0504735,Movable dwelling,114.9,235,515,2.2
+2021,"Prince Albert (CA), Sask.",2021S0504745,Total - Structural type of dwelling,115.1,17060,43330,2.5
+2021,"Prince Albert (CA), Sask.",2021S0504745,Single-detached house,115.2,11740,32090,2.7
+2021,"Prince Albert (CA), Sask.",2021S0504745,Semi-detached house,115.3,485,1405,2.9
+2021,"Prince Albert (CA), Sask.",2021S0504745,Row house,115.4,495,1475,3.0
+2021,"Prince Albert (CA), Sask.",2021S0504745,Apartment or flat in a duplex,115.5,310,730,2.4
+2021,"Prince Albert (CA), Sask.",2021S0504745,Apartment in a building that has fewer than five storeys,115.6,3145,6100,1.9
+2021,"Prince Albert (CA), Sask.",2021S0504745,Apartment in a building that has five or more storeys,115.7,620,875,1.4
+2021,"Prince Albert (CA), Sask.",2021S0504745,Other single-attached house,115.8,10,30,2.2
+2021,"Prince Albert (CA), Sask.",2021S0504745,Movable dwelling,115.9,255,610,2.4
+2021,"Regina (CMA), Sask.",2021S0503705,Total - Structural type of dwelling,116.1,100210,244950,2.4
+2021,"Regina (CMA), Sask.",2021S0503705,Single-detached house,116.2,65495,175500,2.7
+2021,"Regina (CMA), Sask.",2021S0503705,Semi-detached house,116.3,2710,7305,2.7
+2021,"Regina (CMA), Sask.",2021S0503705,Row house,116.4,6190,15735,2.5
+2021,"Regina (CMA), Sask.",2021S0503705,Apartment or flat in a duplex,116.5,2215,5300,2.4
+2021,"Regina (CMA), Sask.",2021S0503705,Apartment in a building that has fewer than five storeys,116.6,18660,33490,1.8
+2021,"Regina (CMA), Sask.",2021S0503705,Apartment in a building that has five or more storeys,116.7,4390,6530,1.5
+2021,"Regina (CMA), Sask.",2021S0503705,Other single-attached house,116.8,40,75,1.7
+2021,"Regina (CMA), Sask.",2021S0503705,Movable dwelling,116.9,495,1005,2.0
+2021,"Saskatoon (CMA), Sask.",2021S0503725,Total - Structural type of dwelling,117.1,125100,311515,2.5
+2021,"Saskatoon (CMA), Sask.",2021S0503725,Single-detached house,117.2,73660,206125,2.8
+2021,"Saskatoon (CMA), Sask.",2021S0503725,Semi-detached house,117.3,4605,13090,2.8
+2021,"Saskatoon (CMA), Sask.",2021S0503725,Row house,117.4,8255,19935,2.4
+2021,"Saskatoon (CMA), Sask.",2021S0503725,Apartment or flat in a duplex,117.5,6800,15740,2.3
+2021,"Saskatoon (CMA), Sask.",2021S0503725,Apartment in a building that has fewer than five storeys,117.6,26060,47705,1.8
+2021,"Saskatoon (CMA), Sask.",2021S0503725,Apartment in a building that has five or more storeys,117.7,4725,6655,1.4
+2021,"Saskatoon (CMA), Sask.",2021S0503725,Other single-attached house,117.8,55,120,2.2
+2021,"Saskatoon (CMA), Sask.",2021S0503725,Movable dwelling,117.9,945,2140,2.3
+2021,"Swift Current (CA), Sask.",2021S0504720,Total - Structural type of dwelling,118.1,7950,18060,2.3
+2021,"Swift Current (CA), Sask.",2021S0504720,Single-detached house,118.2,5360,13515,2.5
+2021,"Swift Current (CA), Sask.",2021S0504720,Semi-detached house,118.3,395,730,1.9
+2021,"Swift Current (CA), Sask.",2021S0504720,Row house,118.4,365,650,1.8
+2021,"Swift Current (CA), Sask.",2021S0504720,Apartment or flat in a duplex,118.5,165,350,2.1
+2021,"Swift Current (CA), Sask.",2021S0504720,Apartment in a building that has fewer than five storeys,118.6,1285,2160,1.7
+2021,"Swift Current (CA), Sask.",2021S0504720,Apartment in a building that has five or more storeys,118.7,105,115,1.1
+2021,"Swift Current (CA), Sask.",2021S0504720,Other single-attached house,118.8,10,15,1.8
+2021,"Swift Current (CA), Sask.",2021S0504720,Movable dwelling,118.9,270,525,2.0
+2021,"Weyburn (CA), Sask.",2021S0504755,Total - Structural type of dwelling,119.1,5090,11825,2.3
+2021,"Weyburn (CA), Sask.",2021S0504755,Single-detached house,119.2,3475,9035,2.6
+2021,"Weyburn (CA), Sask.",2021S0504755,Semi-detached house,119.3,140,370,2.6
+2021,"Weyburn (CA), Sask.",2021S0504755,Row house,119.4,105,250,2.4
+2021,"Weyburn (CA), Sask.",2021S0504755,Apartment or flat in a duplex,119.5,50,105,2.0
+2021,"Weyburn (CA), Sask.",2021S0504755,Apartment in a building that has fewer than five storeys,119.6,1060,1615,1.5
+2021,"Weyburn (CA), Sask.",2021S0504755,Apartment in a building that has five or more storeys,119.7,115,135,1.2
+2021,"Weyburn (CA), Sask.",2021S0504755,Other single-attached house,119.8,5,15,2.8
+2021,"Weyburn (CA), Sask.",2021S0504755,Movable dwelling,119.9,135,290,2.2
+2021,"Yorkton (CA), Sask.",2021S0504710,Total - Structural type of dwelling,120.1,8420,19500,2.3
+2021,"Yorkton (CA), Sask.",2021S0504710,Single-detached house,120.2,6310,15745,2.5
+2021,"Yorkton (CA), Sask.",2021S0504710,Semi-detached house,120.3,280,575,2.1
+2021,"Yorkton (CA), Sask.",2021S0504710,Row house,120.4,230,425,1.8
+2021,"Yorkton (CA), Sask.",2021S0504710,Apartment or flat in a duplex,120.5,60,160,2.7
+2021,"Yorkton (CA), Sask.",2021S0504710,Apartment in a building that has fewer than five storeys,120.6,1345,2180,1.6
+2021,"Yorkton (CA), Sask.",2021S0504710,Apartment in a building that has five or more storeys,120.7,0,0,0.0
+2021,"Yorkton (CA), Sask.",2021S0504710,Other single-attached house,120.8,0,10,0.0
+2021,"Yorkton (CA), Sask.",2021S0504710,Movable dwelling,120.9,195,415,2.1
+2021,Alberta,2021A000248,Total - Structural type of dwelling,121.1,1633220,4177715,2.6
+2021,Alberta,2021A000248,Single-detached house,121.2,994565,2854605,2.9
+2021,Alberta,2021A000248,Semi-detached house,121.3,98740,254440,2.6
+2021,Alberta,2021A000248,Row house,121.4,127735,313400,2.5
+2021,Alberta,2021A000248,Apartment or flat in a duplex,121.5,43730,102165,2.3
+2021,Alberta,2021A000248,Apartment in a building that has fewer than five storeys,121.6,247030,430750,1.7
+2021,Alberta,2021A000248,Apartment in a building that has five or more storeys,121.7,74880,117185,1.6
+2021,Alberta,2021A000248,Other single-attached house,121.8,1220,2520,2.1
+2021,Alberta,2021A000248,Movable dwelling,121.9,45325,102650,2.3
+2021,"Brooks (CA), Alta.",2021S0504806,Total - Structural type of dwelling,122.1,5140,14645,2.9
+2021,"Brooks (CA), Alta.",2021S0504806,Single-detached house,122.2,2800,8305,3.0
+2021,"Brooks (CA), Alta.",2021S0504806,Semi-detached house,122.3,400,1295,3.2
+2021,"Brooks (CA), Alta.",2021S0504806,Row house,122.4,565,1845,3.3
+2021,"Brooks (CA), Alta.",2021S0504806,Apartment or flat in a duplex,122.5,185,525,2.9
+2021,"Brooks (CA), Alta.",2021S0504806,Apartment in a building that has fewer than five storeys,122.6,795,1675,2.1
+2021,"Brooks (CA), Alta.",2021S0504806,Apartment in a building that has five or more storeys,122.7,0,0,0.0
+2021,"Brooks (CA), Alta.",2021S0504806,Other single-attached house,122.8,0,0,0.0
+2021,"Brooks (CA), Alta.",2021S0504806,Movable dwelling,122.9,395,995,2.5
+2021,"Calgary (CMA), Alta.",2021S0503825,Total - Structural type of dwelling,123.1,563440,1465175,2.6
+2021,"Calgary (CMA), Alta.",2021S0503825,Single-detached house,123.2,320535,969665,3.0
+2021,"Calgary (CMA), Alta.",2021S0503825,Semi-detached house,123.3,36285,93510,2.6
+2021,"Calgary (CMA), Alta.",2021S0503825,Row house,123.4,55260,130890,2.4
+2021,"Calgary (CMA), Alta.",2021S0503825,Apartment or flat in a duplex,123.5,21410,52550,2.5
+2021,"Calgary (CMA), Alta.",2021S0503825,Apartment in a building that has fewer than five storeys,123.6,86635,149010,1.7
+2021,"Calgary (CMA), Alta.",2021S0503825,Apartment in a building that has five or more storeys,123.7,40745,64610,1.6
+2021,"Calgary (CMA), Alta.",2021S0503825,Other single-attached house,123.8,315,555,1.8
+2021,"Calgary (CMA), Alta.",2021S0503825,Movable dwelling,123.9,2255,4385,2.0
+2021,"Camrose (CA), Alta.",2021S0504833,Total - Structural type of dwelling,124.1,8135,18190,2.2
+2021,"Camrose (CA), Alta.",2021S0504833,Single-detached house,124.2,5075,12735,2.5
+2021,"Camrose (CA), Alta.",2021S0504833,Semi-detached house,124.3,565,1245,2.2
+2021,"Camrose (CA), Alta.",2021S0504833,Row house,124.4,450,920,2.0
+2021,"Camrose (CA), Alta.",2021S0504833,Apartment or flat in a duplex,124.5,200,455,2.3
+2021,"Camrose (CA), Alta.",2021S0504833,Apartment in a building that has fewer than five storeys,124.6,1605,2390,1.5
+2021,"Camrose (CA), Alta.",2021S0504833,Apartment in a building that has five or more storeys,124.7,60,80,1.4
+2021,"Camrose (CA), Alta.",2021S0504833,Other single-attached house,124.8,10,25,2.4
+2021,"Camrose (CA), Alta.",2021S0504833,Movable dwelling,124.9,170,345,2.0
+2021,"Canmore (CA), Alta.",2021S0504828,Total - Structural type of dwelling,125.1,6805,15525,2.3
+2021,"Canmore (CA), Alta.",2021S0504828,Single-detached house,125.2,2570,6575,2.6
+2021,"Canmore (CA), Alta.",2021S0504828,Semi-detached house,125.3,565,1305,2.3
+2021,"Canmore (CA), Alta.",2021S0504828,Row house,125.4,1345,2935,2.2
+2021,"Canmore (CA), Alta.",2021S0504828,Apartment or flat in a duplex,125.5,380,895,2.3
+2021,"Canmore (CA), Alta.",2021S0504828,Apartment in a building that has fewer than five storeys,125.6,1670,3245,1.9
+2021,"Canmore (CA), Alta.",2021S0504828,Apartment in a building that has five or more storeys,125.7,255,545,2.1
+2021,"Canmore (CA), Alta.",2021S0504828,Other single-attached house,125.8,5,10,2.0
+2021,"Canmore (CA), Alta.",2021S0504828,Movable dwelling,125.9,10,20,1.8
+2021,"Edmonton (CMA), Alta.",2021S0503835,Total - Structural type of dwelling,126.1,548625,1397750,2.6
+2021,"Edmonton (CMA), Alta.",2021S0503835,Single-detached house,126.2,309960,898990,2.9
+2021,"Edmonton (CMA), Alta.",2021S0503835,Semi-detached house,126.3,38480,102660,2.7
+2021,"Edmonton (CMA), Alta.",2021S0503835,Row house,126.4,46400,121505,2.6
+2021,"Edmonton (CMA), Alta.",2021S0503835,Apartment or flat in a duplex,126.5,10955,24920,2.3
+2021,"Edmonton (CMA), Alta.",2021S0503835,Apartment in a building that has fewer than five storeys,126.6,105230,188055,1.8
+2021,"Edmonton (CMA), Alta.",2021S0503835,Apartment in a building that has five or more storeys,126.7,30925,47390,1.5
+2021,"Edmonton (CMA), Alta.",2021S0503835,Other single-attached house,126.8,140,305,2.2
+2021,"Edmonton (CMA), Alta.",2021S0503835,Movable dwelling,126.9,6530,13930,2.1
+2021,"Grande Prairie (CA), Alta.",2021S0504850,Total - Structural type of dwelling,127.1,24815,63175,2.6
+2021,"Grande Prairie (CA), Alta.",2021S0504850,Single-detached house,127.2,15280,43615,2.9
+2021,"Grande Prairie (CA), Alta.",2021S0504850,Semi-detached house,127.3,1760,4340,2.5
+2021,"Grande Prairie (CA), Alta.",2021S0504850,Row house,127.4,1085,2765,2.6
+2021,"Grande Prairie (CA), Alta.",2021S0504850,Apartment or flat in a duplex,127.5,1110,2480,2.2
+2021,"Grande Prairie (CA), Alta.",2021S0504850,Apartment in a building that has fewer than five storeys,127.6,4580,7780,1.7
+2021,"Grande Prairie (CA), Alta.",2021S0504850,Apartment in a building that has five or more storeys,127.7,160,245,1.5
+2021,"Grande Prairie (CA), Alta.",2021S0504850,Other single-attached house,127.8,10,30,4.0
+2021,"Grande Prairie (CA), Alta.",2021S0504850,Movable dwelling,127.9,835,1925,2.3
+2021,"High River (CA), Alta.",2021S0504821,Total - Structural type of dwelling,128.1,5785,14110,2.4
+2021,"High River (CA), Alta.",2021S0504821,Single-detached house,128.2,2915,8075,2.8
+2021,"High River (CA), Alta.",2021S0504821,Semi-detached house,128.3,1030,2340,2.3
+2021,"High River (CA), Alta.",2021S0504821,Row house,128.4,730,1635,2.2
+2021,"High River (CA), Alta.",2021S0504821,Apartment or flat in a duplex,128.5,105,235,2.2
+2021,"High River (CA), Alta.",2021S0504821,Apartment in a building that has fewer than five storeys,128.6,725,1290,1.8
+2021,"High River (CA), Alta.",2021S0504821,Apartment in a building that has five or more storeys,128.7,0,0,0.0
+2021,"High River (CA), Alta.",2021S0504821,Other single-attached house,128.8,5,10,1.6
+2021,"High River (CA), Alta.",2021S0504821,Movable dwelling,128.9,275,530,1.9
+2021,"Lacombe (CA), Alta.",2021S0504832,Total - Structural type of dwelling,129.1,5190,13070,2.5
+2021,"Lacombe (CA), Alta.",2021S0504832,Single-detached house,129.2,3290,9110,2.8
+2021,"Lacombe (CA), Alta.",2021S0504832,Semi-detached house,129.3,465,1170,2.5
+2021,"Lacombe (CA), Alta.",2021S0504832,Row house,129.4,255,605,2.4
+2021,"Lacombe (CA), Alta.",2021S0504832,Apartment or flat in a duplex,129.5,115,265,2.4
+2021,"Lacombe (CA), Alta.",2021S0504832,Apartment in a building that has fewer than five storeys,129.6,700,1160,1.7
+2021,"Lacombe (CA), Alta.",2021S0504832,Apartment in a building that has five or more storeys,129.7,0,0,0.0
+2021,"Lacombe (CA), Alta.",2021S0504832,Other single-attached house,129.8,10,20,1.7
+2021,"Lacombe (CA), Alta.",2021S0504832,Movable dwelling,129.9,370,740,2.0
+2021,"Lethbridge (CMA), Alta.",2021S0503810,Total - Structural type of dwelling,130.1,48645,120500,2.5
+2021,"Lethbridge (CMA), Alta.",2021S0503810,Single-detached house,130.2,32300,88045,2.7
+2021,"Lethbridge (CMA), Alta.",2021S0503810,Semi-detached house,130.3,2745,6715,2.4
+2021,"Lethbridge (CMA), Alta.",2021S0503810,Row house,130.4,2725,6125,2.3
+2021,"Lethbridge (CMA), Alta.",2021S0503810,Apartment or flat in a duplex,130.5,3105,6585,2.1
+2021,"Lethbridge (CMA), Alta.",2021S0503810,Apartment in a building that has fewer than five storeys,130.6,5630,9530,1.7
+2021,"Lethbridge (CMA), Alta.",2021S0503810,Apartment in a building that has five or more storeys,130.7,820,1070,1.3
+2021,"Lethbridge (CMA), Alta.",2021S0503810,Other single-attached house,130.8,20,35,1.8
+2021,"Lethbridge (CMA), Alta.",2021S0503810,Movable dwelling,130.9,1295,2395,1.9
+2021,"Lloydminster (CA), Alta./Sask.",2021S0504840,Total - Structural type of dwelling,131.1,13890,35910,2.6
+2021,"Lloydminster (CA), Alta./Sask.",2021S0504840,Single-detached house,131.2,9420,26680,2.8
+2021,"Lloydminster (CA), Alta./Sask.",2021S0504840,Semi-detached house,131.3,330,760,2.3
+2021,"Lloydminster (CA), Alta./Sask.",2021S0504840,Row house,131.4,1090,2730,2.5
+2021,"Lloydminster (CA), Alta./Sask.",2021S0504840,Apartment or flat in a duplex,131.5,105,240,2.3
+2021,"Lloydminster (CA), Alta./Sask.",2021S0504840,Apartment in a building that has fewer than five storeys,131.6,2385,4280,1.8
+2021,"Lloydminster (CA), Alta./Sask.",2021S0504840,Apartment in a building that has five or more storeys,131.7,105,140,1.3
+2021,"Lloydminster (CA), Alta./Sask.",2021S0504840,Other single-attached house,131.8,0,5,
+2021,"Lloydminster (CA), Alta./Sask.",2021S0504840,Movable dwelling,131.9,440,1070,2.5
+2021,"Lloydminster (Alberta part) (CA), Alta.",2021S050648840,Total - Structural type of dwelling,132.1,7635,19230,2.5
+2021,"Lloydminster (Alberta part) (CA), Alta.",2021S050648840,Single-detached house,132.2,5220,14720,2.8
+2021,"Lloydminster (Alberta part) (CA), Alta.",2021S050648840,Semi-detached house,132.3,210,445,2.1
+2021,"Lloydminster (Alberta part) (CA), Alta.",2021S050648840,Row house,132.4,320,670,2.1
+2021,"Lloydminster (Alberta part) (CA), Alta.",2021S050648840,Apartment or flat in a duplex,132.5,65,140,2.2
+2021,"Lloydminster (Alberta part) (CA), Alta.",2021S050648840,Apartment in a building that has fewer than five storeys,132.6,1570,2680,1.7
+2021,"Lloydminster (Alberta part) (CA), Alta.",2021S050648840,Apartment in a building that has five or more storeys,132.7,35,65,1.7
+2021,"Lloydminster (Alberta part) (CA), Alta.",2021S050648840,Other single-attached house,132.8,0,0,0.0
+2021,"Lloydminster (Alberta part) (CA), Alta.",2021S050648840,Movable dwelling,132.9,205,505,2.4
+2021,"Lloydminster (Saskatchewan part) (CA), Sask.",2021S050647840,Total - Structural type of dwelling,133.1,6250,16685,2.7
+2021,"Lloydminster (Saskatchewan part) (CA), Sask.",2021S050647840,Single-detached house,133.2,4200,11960,2.9
+2021,"Lloydminster (Saskatchewan part) (CA), Sask.",2021S050647840,Semi-detached house,133.3,120,315,2.6
+2021,"Lloydminster (Saskatchewan part) (CA), Sask.",2021S050647840,Row house,133.4,770,2055,2.7
+2021,"Lloydminster (Saskatchewan part) (CA), Sask.",2021S050647840,Apartment or flat in a duplex,133.5,45,100,2.4
+2021,"Lloydminster (Saskatchewan part) (CA), Sask.",2021S050647840,Apartment in a building that has fewer than five storeys,133.6,820,1600,2.0
+2021,"Lloydminster (Saskatchewan part) (CA), Sask.",2021S050647840,Apartment in a building that has five or more storeys,133.7,65,70,1.1
+2021,"Lloydminster (Saskatchewan part) (CA), Sask.",2021S050647840,Other single-attached house,133.8,0,10,0.0
+2021,"Lloydminster (Saskatchewan part) (CA), Sask.",2021S050647840,Movable dwelling,133.9,235,570,2.5
+2021,"Medicine Hat (CA), Alta.",2021S0504805,Total - Structural type of dwelling,134.1,32060,74590,2.3
+2021,"Medicine Hat (CA), Alta.",2021S0504805,Single-detached house,134.2,21375,54795,2.6
+2021,"Medicine Hat (CA), Alta.",2021S0504805,Semi-detached house,134.3,1630,3995,2.5
+2021,"Medicine Hat (CA), Alta.",2021S0504805,Row house,134.4,1760,3805,2.2
+2021,"Medicine Hat (CA), Alta.",2021S0504805,Apartment or flat in a duplex,134.5,505,1010,2.0
+2021,"Medicine Hat (CA), Alta.",2021S0504805,Apartment in a building that has fewer than five storeys,134.6,5370,8240,1.5
+2021,"Medicine Hat (CA), Alta.",2021S0504805,Apartment in a building that has five or more storeys,134.7,225,345,1.5
+2021,"Medicine Hat (CA), Alta.",2021S0504805,Other single-attached house,134.8,25,50,1.9
+2021,"Medicine Hat (CA), Alta.",2021S0504805,Movable dwelling,134.9,1175,2350,2.0
+2021,"Okotoks (CA), Alta.",2021S0504820,Total - Structural type of dwelling,135.1,10475,30020,2.9
+2021,"Okotoks (CA), Alta.",2021S0504820,Single-detached house,135.2,8135,25330,3.1
+2021,"Okotoks (CA), Alta.",2021S0504820,Semi-detached house,135.3,515,1065,2.1
+2021,"Okotoks (CA), Alta.",2021S0504820,Row house,135.4,645,1585,2.5
+2021,"Okotoks (CA), Alta.",2021S0504820,Apartment or flat in a duplex,135.5,110,280,2.5
+2021,"Okotoks (CA), Alta.",2021S0504820,Apartment in a building that has fewer than five storeys,135.6,950,1510,1.6
+2021,"Okotoks (CA), Alta.",2021S0504820,Apartment in a building that has five or more storeys,135.7,0,5,0.0
+2021,"Okotoks (CA), Alta.",2021S0504820,Other single-attached house,135.8,0,10,0.0
+2021,"Okotoks (CA), Alta.",2021S0504820,Movable dwelling,135.9,110,250,2.3
+2021,"Red Deer (CMA), Alta.",2021S0503830,Total - Structural type of dwelling,136.1,40510,98045,2.4
+2021,"Red Deer (CMA), Alta.",2021S0503830,Single-detached house,136.2,21520,60360,2.8
+2021,"Red Deer (CMA), Alta.",2021S0503830,Semi-detached house,136.3,3275,8140,2.5
+2021,"Red Deer (CMA), Alta.",2021S0503830,Row house,136.4,4075,9755,2.4
+2021,"Red Deer (CMA), Alta.",2021S0503830,Apartment or flat in a duplex,136.5,1475,3175,2.2
+2021,"Red Deer (CMA), Alta.",2021S0503830,Apartment in a building that has fewer than five storeys,136.6,8500,13670,1.6
+2021,"Red Deer (CMA), Alta.",2021S0503830,Apartment in a building that has five or more storeys,136.7,595,880,1.5
+2021,"Red Deer (CMA), Alta.",2021S0503830,Other single-attached house,136.8,30,55,1.9
+2021,"Red Deer (CMA), Alta.",2021S0503830,Movable dwelling,136.9,1045,2005,1.9
+2021,"Strathmore (CA), Alta.",2021S0504826,Total - Structural type of dwelling,137.1,5515,14105,2.6
+2021,"Strathmore (CA), Alta.",2021S0504826,Single-detached house,137.2,3235,9160,2.8
+2021,"Strathmore (CA), Alta.",2021S0504826,Semi-detached house,137.3,700,1750,2.5
+2021,"Strathmore (CA), Alta.",2021S0504826,Row house,137.4,560,1350,2.4
+2021,"Strathmore (CA), Alta.",2021S0504826,Apartment or flat in a duplex,137.5,60,125,2.2
+2021,"Strathmore (CA), Alta.",2021S0504826,Apartment in a building that has fewer than five storeys,137.6,735,1295,1.8
+2021,"Strathmore (CA), Alta.",2021S0504826,Apartment in a building that has five or more storeys,137.7,0,0,0.0
+2021,"Strathmore (CA), Alta.",2021S0504826,Other single-attached house,137.8,0,0,0.0
+2021,"Strathmore (CA), Alta.",2021S0504826,Movable dwelling,137.9,225,425,1.9
+2021,"Sylvan Lake (CA), Alta.",2021S0504831,Total - Structural type of dwelling,138.1,6615,16435,2.5
+2021,"Sylvan Lake (CA), Alta.",2021S0504831,Single-detached house,138.2,4435,12190,2.8
+2021,"Sylvan Lake (CA), Alta.",2021S0504831,Semi-detached house,138.3,310,695,2.3
+2021,"Sylvan Lake (CA), Alta.",2021S0504831,Row house,138.4,775,1695,2.2
+2021,"Sylvan Lake (CA), Alta.",2021S0504831,Apartment or flat in a duplex,138.5,235,420,1.8
+2021,"Sylvan Lake (CA), Alta.",2021S0504831,Apartment in a building that has fewer than five storeys,138.6,535,825,1.5
+2021,"Sylvan Lake (CA), Alta.",2021S0504831,Apartment in a building that has five or more storeys,138.7,140,235,1.7
+2021,"Sylvan Lake (CA), Alta.",2021S0504831,Other single-attached house,138.8,5,5,1.4
+2021,"Sylvan Lake (CA), Alta.",2021S0504831,Movable dwelling,138.9,190,370,1.9
+2021,"Wetaskiwin (CA), Alta.",2021S0504865,Total - Structural type of dwelling,139.1,5185,12115,2.3
+2021,"Wetaskiwin (CA), Alta.",2021S0504865,Single-detached house,139.2,3020,7900,2.6
+2021,"Wetaskiwin (CA), Alta.",2021S0504865,Semi-detached house,139.3,405,935,2.3
+2021,"Wetaskiwin (CA), Alta.",2021S0504865,Row house,139.4,440,1060,2.4
+2021,"Wetaskiwin (CA), Alta.",2021S0504865,Apartment or flat in a duplex,139.5,165,325,2.0
+2021,"Wetaskiwin (CA), Alta.",2021S0504865,Apartment in a building that has fewer than five storeys,139.6,980,1545,1.6
+2021,"Wetaskiwin (CA), Alta.",2021S0504865,Apartment in a building that has five or more storeys,139.7,0,0,0.0
+2021,"Wetaskiwin (CA), Alta.",2021S0504865,Other single-attached house,139.8,10,15,1.6
+2021,"Wetaskiwin (CA), Alta.",2021S0504865,Movable dwelling,139.9,165,330,2.0
+2021,"Wood Buffalo (CA), Alta.",2021S0504860,Total - Structural type of dwelling,140.1,26480,73290,2.8
+2021,"Wood Buffalo (CA), Alta.",2021S0504860,Single-detached house,140.2,12915,40595,3.1
+2021,"Wood Buffalo (CA), Alta.",2021S0504860,Semi-detached house,140.3,1240,3765,3.0
+2021,"Wood Buffalo (CA), Alta.",2021S0504860,Row house,140.4,2760,7685,2.8
+2021,"Wood Buffalo (CA), Alta.",2021S0504860,Apartment or flat in a duplex,140.5,475,1205,2.6
+2021,"Wood Buffalo (CA), Alta.",2021S0504860,Apartment in a building that has fewer than five storeys,140.6,5645,11690,2.1
+2021,"Wood Buffalo (CA), Alta.",2021S0504860,Apartment in a building that has five or more storeys,140.7,845,1605,1.9
+2021,"Wood Buffalo (CA), Alta.",2021S0504860,Other single-attached house,140.8,5,10,2.4
+2021,"Wood Buffalo (CA), Alta.",2021S0504860,Movable dwelling,140.9,2600,6730,2.6
+2021,British Columbia,2021A000259,Total - Structural type of dwelling,141.1,2041835,4915940,2.4
+2021,British Columbia,2021A000259,Single-detached house,141.2,866340,2362295,2.7
+2021,British Columbia,2021A000259,Semi-detached house,141.3,62890,153830,2.5
+2021,British Columbia,2021A000259,Row house,141.4,168590,430880,2.6
+2021,British Columbia,2021A000259,Apartment or flat in a duplex,141.5,249835,713385,2.9
+2021,British Columbia,2021A000259,Apartment in a building that has fewer than five storeys,141.6,417475,768480,1.8
+2021,British Columbia,2021A000259,Apartment in a building that has five or more storeys,141.7,221845,383015,1.7
+2021,British Columbia,2021A000259,Other single-attached house,141.8,3760,8150,2.2
+2021,British Columbia,2021A000259,Movable dwelling,141.9,51100,95915,1.9
+2021,"Abbotsford - Mission (CMA), B.C.",2021S0503932,Total - Structural type of dwelling,142.1,67615,192115,2.8
+2021,"Abbotsford - Mission (CMA), B.C.",2021S0503932,Single-detached house,142.2,29165,96035,3.3
+2021,"Abbotsford - Mission (CMA), B.C.",2021S0503932,Semi-detached house,142.3,1715,4505,2.6
+2021,"Abbotsford - Mission (CMA), B.C.",2021S0503932,Row house,142.4,5595,14495,2.6
+2021,"Abbotsford - Mission (CMA), B.C.",2021S0503932,Apartment or flat in a duplex,142.5,14040,46995,3.4
+2021,"Abbotsford - Mission (CMA), B.C.",2021S0503932,Apartment in a building that has fewer than five storeys,142.6,15555,27545,1.8
+2021,"Abbotsford - Mission (CMA), B.C.",2021S0503932,Apartment in a building that has five or more storeys,142.7,1160,1715,1.5
+2021,"Abbotsford - Mission (CMA), B.C.",2021S0503932,Other single-attached house,142.8,60,195,3.4
+2021,"Abbotsford - Mission (CMA), B.C.",2021S0503932,Movable dwelling,142.9,335,625,1.9
+2021,"Campbell River (CA), B.C.",2021S0504944,Total - Structural type of dwelling,143.1,17640,39935,2.3
+2021,"Campbell River (CA), B.C.",2021S0504944,Single-detached house,143.2,11175,27795,2.5
+2021,"Campbell River (CA), B.C.",2021S0504944,Semi-detached house,143.3,845,1850,2.2
+2021,"Campbell River (CA), B.C.",2021S0504944,Row house,143.4,1080,2430,2.3
+2021,"Campbell River (CA), B.C.",2021S0504944,Apartment or flat in a duplex,143.5,740,1725,2.3
+2021,"Campbell River (CA), B.C.",2021S0504944,Apartment in a building that has fewer than five storeys,143.6,2845,4340,1.5
+2021,"Campbell River (CA), B.C.",2021S0504944,Apartment in a building that has five or more storeys,143.7,0,0,0.0
+2021,"Campbell River (CA), B.C.",2021S0504944,Other single-attached house,143.8,5,15,2.0
+2021,"Campbell River (CA), B.C.",2021S0504944,Movable dwelling,143.9,950,1775,1.9
+2021,"Chilliwack (CMA), B.C.",2021S0503930,Total - Structural type of dwelling,144.1,44365,111540,2.5
+2021,"Chilliwack (CMA), B.C.",2021S0503930,Single-detached house,144.2,25490,72210,2.8
+2021,"Chilliwack (CMA), B.C.",2021S0503930,Semi-detached house,144.3,1650,4070,2.5
+2021,"Chilliwack (CMA), B.C.",2021S0503930,Row house,144.4,5940,14490,2.4
+2021,"Chilliwack (CMA), B.C.",2021S0503930,Apartment or flat in a duplex,144.5,1740,4600,2.6
+2021,"Chilliwack (CMA), B.C.",2021S0503930,Apartment in a building that has fewer than five storeys,144.6,7580,12640,1.7
+2021,"Chilliwack (CMA), B.C.",2021S0503930,Apartment in a building that has five or more storeys,144.7,290,430,1.5
+2021,"Chilliwack (CMA), B.C.",2021S0503930,Other single-attached house,144.8,40,95,2.2
+2021,"Chilliwack (CMA), B.C.",2021S0503930,Movable dwelling,144.9,1620,2990,1.9
+2021,"Courtenay (CA), B.C.",2021S0504943,Total - Structural type of dwelling,145.1,28205,62020,2.2
+2021,"Courtenay (CA), B.C.",2021S0504943,Single-detached house,145.2,18145,43310,2.4
+2021,"Courtenay (CA), B.C.",2021S0504943,Semi-detached house,145.3,2810,5800,2.1
+2021,"Courtenay (CA), B.C.",2021S0504943,Row house,145.4,1710,3380,2.0
+2021,"Courtenay (CA), B.C.",2021S0504943,Apartment or flat in a duplex,145.5,875,1995,2.3
+2021,"Courtenay (CA), B.C.",2021S0504943,Apartment in a building that has fewer than five storeys,145.6,3590,5605,1.6
+2021,"Courtenay (CA), B.C.",2021S0504943,Apartment in a building that has five or more storeys,145.7,40,60,1.3
+2021,"Courtenay (CA), B.C.",2021S0504943,Other single-attached house,145.8,50,105,2.0
+2021,"Courtenay (CA), B.C.",2021S0504943,Movable dwelling,145.9,975,1770,1.8
+2021,"Cranbrook (CA), B.C.",2021S0504905,Total - Structural type of dwelling,146.1,11380,26280,2.3
+2021,"Cranbrook (CA), B.C.",2021S0504905,Single-detached house,146.2,7890,19705,2.5
+2021,"Cranbrook (CA), B.C.",2021S0504905,Semi-detached house,146.3,510,1095,2.2
+2021,"Cranbrook (CA), B.C.",2021S0504905,Row house,146.4,530,1030,1.9
+2021,"Cranbrook (CA), B.C.",2021S0504905,Apartment or flat in a duplex,146.5,250,585,2.3
+2021,"Cranbrook (CA), B.C.",2021S0504905,Apartment in a building that has fewer than five storeys,146.6,1295,2055,1.6
+2021,"Cranbrook (CA), B.C.",2021S0504905,Apartment in a building that has five or more storeys,146.7,0,0,0.0
+2021,"Cranbrook (CA), B.C.",2021S0504905,Other single-attached house,146.8,45,85,1.7
+2021,"Cranbrook (CA), B.C.",2021S0504905,Movable dwelling,146.9,855,1730,2.0
+2021,"Dawson Creek (CA), B.C.",2021S0504975,Total - Structural type of dwelling,147.1,7545,17380,2.3
+2021,"Dawson Creek (CA), B.C.",2021S0504975,Single-detached house,147.2,5215,12945,2.5
+2021,"Dawson Creek (CA), B.C.",2021S0504975,Semi-detached house,147.3,325,745,2.3
+2021,"Dawson Creek (CA), B.C.",2021S0504975,Row house,147.4,335,705,2.1
+2021,"Dawson Creek (CA), B.C.",2021S0504975,Apartment or flat in a duplex,147.5,160,365,2.3
+2021,"Dawson Creek (CA), B.C.",2021S0504975,Apartment in a building that has fewer than five storeys,147.6,1085,1695,1.6
+2021,"Dawson Creek (CA), B.C.",2021S0504975,Apartment in a building that has five or more storeys,147.7,0,0,0.0
+2021,"Dawson Creek (CA), B.C.",2021S0504975,Other single-attached house,147.8,10,15,1.8
+2021,"Dawson Creek (CA), B.C.",2021S0504975,Movable dwelling,147.9,410,905,2.2
+2021,"Duncan (CA), B.C.",2021S0504937,Total - Structural type of dwelling,148.1,20010,46405,2.3
+2021,"Duncan (CA), B.C.",2021S0504937,Single-detached house,148.2,12850,32435,2.5
+2021,"Duncan (CA), B.C.",2021S0504937,Semi-detached house,148.3,1155,2795,2.4
+2021,"Duncan (CA), B.C.",2021S0504937,Row house,148.4,1230,2690,2.2
+2021,"Duncan (CA), B.C.",2021S0504937,Apartment or flat in a duplex,148.5,920,2290,2.5
+2021,"Duncan (CA), B.C.",2021S0504937,Apartment in a building that has fewer than five storeys,148.6,2935,4540,1.6
+2021,"Duncan (CA), B.C.",2021S0504937,Apartment in a building that has five or more storeys,148.7,15,15,1.5
+2021,"Duncan (CA), B.C.",2021S0504937,Other single-attached house,148.8,90,235,2.7
+2021,"Duncan (CA), B.C.",2021S0504937,Movable dwelling,148.9,820,1400,1.7
+2021,"Fort St. John (CA), B.C.",2021S0504977,Total - Structural type of dwelling,149.1,11595,28430,2.5
+2021,"Fort St. John (CA), B.C.",2021S0504977,Single-detached house,149.2,6425,17620,2.7
+2021,"Fort St. John (CA), B.C.",2021S0504977,Semi-detached house,149.3,1005,2645,2.6
+2021,"Fort St. John (CA), B.C.",2021S0504977,Row house,149.4,920,1990,2.2
+2021,"Fort St. John (CA), B.C.",2021S0504977,Apartment or flat in a duplex,149.5,240,570,2.4
+2021,"Fort St. John (CA), B.C.",2021S0504977,Apartment in a building that has fewer than five storeys,149.6,1735,2845,1.6
+2021,"Fort St. John (CA), B.C.",2021S0504977,Apartment in a building that has five or more storeys,149.7,145,240,1.7
+2021,"Fort St. John (CA), B.C.",2021S0504977,Other single-attached house,149.8,15,30,2.2
+2021,"Fort St. John (CA), B.C.",2021S0504977,Movable dwelling,149.9,1105,2485,2.3
+2021,"Kamloops (CMA), B.C.",2021S0503925,Total - Structural type of dwelling,150.1,47105,110550,2.4
+2021,"Kamloops (CMA), B.C.",2021S0503925,Single-detached house,150.2,24995,66430,2.7
+2021,"Kamloops (CMA), B.C.",2021S0503925,Semi-detached house,150.3,3355,7820,2.3
+2021,"Kamloops (CMA), B.C.",2021S0503925,Row house,150.4,4215,9050,2.2
+2021,"Kamloops (CMA), B.C.",2021S0503925,Apartment or flat in a duplex,150.5,4060,9640,2.4
+2021,"Kamloops (CMA), B.C.",2021S0503925,Apartment in a building that has fewer than five storeys,150.6,7350,12215,1.7
+2021,"Kamloops (CMA), B.C.",2021S0503925,Apartment in a building that has five or more storeys,150.7,855,1145,1.3
+2021,"Kamloops (CMA), B.C.",2021S0503925,Other single-attached house,150.8,85,160,1.9
+2021,"Kamloops (CMA), B.C.",2021S0503925,Movable dwelling,150.9,2185,4090,1.9
+2021,"Kelowna (CMA), B.C.",2021S0503915,Total - Structural type of dwelling,151.1,94335,218525,2.3
+2021,"Kelowna (CMA), B.C.",2021S0503915,Single-detached house,151.2,46340,122650,2.7
+2021,"Kelowna (CMA), B.C.",2021S0503915,Semi-detached house,151.3,4605,10610,2.3
+2021,"Kelowna (CMA), B.C.",2021S0503915,Row house,151.4,5955,13330,2.2
+2021,"Kelowna (CMA), B.C.",2021S0503915,Apartment or flat in a duplex,151.5,9050,22460,2.5
+2021,"Kelowna (CMA), B.C.",2021S0503915,Apartment in a building that has fewer than five storeys,151.6,21395,36845,1.7
+2021,"Kelowna (CMA), B.C.",2021S0503915,Apartment in a building that has five or more storeys,151.7,2590,4385,1.7
+2021,"Kelowna (CMA), B.C.",2021S0503915,Other single-attached house,151.8,175,435,2.5
+2021,"Kelowna (CMA), B.C.",2021S0503915,Movable dwelling,151.9,4235,7815,1.8
+2021,"Ladysmith (CA), B.C.",2021S0504936,Total - Structural type of dwelling,152.1,6500,15265,2.4
+2021,"Ladysmith (CA), B.C.",2021S0504936,Single-detached house,152.2,5000,12450,2.5
+2021,"Ladysmith (CA), B.C.",2021S0504936,Semi-detached house,152.3,280,585,2.1
+2021,"Ladysmith (CA), B.C.",2021S0504936,Row house,152.4,255,545,2.1
+2021,"Ladysmith (CA), B.C.",2021S0504936,Apartment or flat in a duplex,152.5,205,430,2.1
+2021,"Ladysmith (CA), B.C.",2021S0504936,Apartment in a building that has fewer than five storeys,152.6,395,620,1.6
+2021,"Ladysmith (CA), B.C.",2021S0504936,Apartment in a building that has five or more storeys,152.7,0,0,0.0
+2021,"Ladysmith (CA), B.C.",2021S0504936,Other single-attached house,152.8,40,70,1.8
+2021,"Ladysmith (CA), B.C.",2021S0504936,Movable dwelling,152.9,325,560,1.7
+2021,"Nanaimo (CMA), B.C.",2021S0503938,Total - Structural type of dwelling,153.1,49345,112405,2.3
+2021,"Nanaimo (CMA), B.C.",2021S0503938,Single-detached house,153.2,27575,69780,2.5
+2021,"Nanaimo (CMA), B.C.",2021S0503938,Semi-detached house,153.3,2195,4805,2.2
+2021,"Nanaimo (CMA), B.C.",2021S0503938,Row house,153.4,1985,4025,2.0
+2021,"Nanaimo (CMA), B.C.",2021S0503938,Apartment or flat in a duplex,153.5,6270,15020,2.4
+2021,"Nanaimo (CMA), B.C.",2021S0503938,Apartment in a building that has fewer than five storeys,153.6,8275,13730,1.7
+2021,"Nanaimo (CMA), B.C.",2021S0503938,Apartment in a building that has five or more storeys,153.7,1390,2115,1.5
+2021,"Nanaimo (CMA), B.C.",2021S0503938,Other single-attached house,153.8,100,225,2.3
+2021,"Nanaimo (CMA), B.C.",2021S0503938,Movable dwelling,153.9,1565,2710,1.7
+2021,"Nelson (CA), B.C.",2021S0504907,Total - Structural type of dwelling,154.1,8505,18710,2.2
+2021,"Nelson (CA), B.C.",2021S0504907,Single-detached house,154.2,5600,13280,2.4
+2021,"Nelson (CA), B.C.",2021S0504907,Semi-detached house,154.3,325,740,2.3
+2021,"Nelson (CA), B.C.",2021S0504907,Row house,154.4,260,525,2.0
+2021,"Nelson (CA), B.C.",2021S0504907,Apartment or flat in a duplex,154.5,785,1660,2.1
+2021,"Nelson (CA), B.C.",2021S0504907,Apartment in a building that has fewer than five storeys,154.6,1045,1640,1.6
+2021,"Nelson (CA), B.C.",2021S0504907,Apartment in a building that has five or more storeys,154.7,0,0,0.0
+2021,"Nelson (CA), B.C.",2021S0504907,Other single-attached house,154.8,120,205,1.7
+2021,"Nelson (CA), B.C.",2021S0504907,Movable dwelling,154.9,375,665,1.8
+2021,"Parksville (CA), B.C.",2021S0504939,Total - Structural type of dwelling,155.1,14765,30015,2.0
+2021,"Parksville (CA), B.C.",2021S0504939,Single-detached house,155.2,10610,23095,2.2
+2021,"Parksville (CA), B.C.",2021S0504939,Semi-detached house,155.3,845,1510,1.8
+2021,"Parksville (CA), B.C.",2021S0504939,Row house,155.4,1170,1875,1.6
+2021,"Parksville (CA), B.C.",2021S0504939,Apartment or flat in a duplex,155.5,225,515,2.3
+2021,"Parksville (CA), B.C.",2021S0504939,Apartment in a building that has fewer than five storeys,155.6,1335,2055,1.5
+2021,"Parksville (CA), B.C.",2021S0504939,Apartment in a building that has five or more storeys,155.7,65,115,1.8
+2021,"Parksville (CA), B.C.",2021S0504939,Other single-attached house,155.8,20,45,1.9
+2021,"Parksville (CA), B.C.",2021S0504939,Movable dwelling,155.9,485,810,1.7
+2021,"Penticton (CA), B.C.",2021S0504913,Total - Structural type of dwelling,156.1,21920,46165,2.1
+2021,"Penticton (CA), B.C.",2021S0504913,Single-detached house,156.2,10520,25665,2.4
+2021,"Penticton (CA), B.C.",2021S0504913,Semi-detached house,156.3,715,1820,2.5
+2021,"Penticton (CA), B.C.",2021S0504913,Row house,156.4,1970,4300,2.2
+2021,"Penticton (CA), B.C.",2021S0504913,Apartment or flat in a duplex,156.5,945,2215,2.4
+2021,"Penticton (CA), B.C.",2021S0504913,Apartment in a building that has fewer than five storeys,156.6,5205,7985,1.5
+2021,"Penticton (CA), B.C.",2021S0504913,Apartment in a building that has five or more storeys,156.7,1210,1825,1.5
+2021,"Penticton (CA), B.C.",2021S0504913,Other single-attached house,156.8,135,265,2.0
+2021,"Penticton (CA), B.C.",2021S0504913,Movable dwelling,156.9,1215,2080,1.7
+2021,"Port Alberni (CA), B.C.",2021S0504940,Total - Structural type of dwelling,157.1,11715,25380,2.2
+2021,"Port Alberni (CA), B.C.",2021S0504940,Single-detached house,157.2,8495,19525,2.3
+2021,"Port Alberni (CA), B.C.",2021S0504940,Semi-detached house,157.3,300,670,2.2
+2021,"Port Alberni (CA), B.C.",2021S0504940,Row house,157.4,520,1135,2.2
+2021,"Port Alberni (CA), B.C.",2021S0504940,Apartment or flat in a duplex,157.5,430,1000,2.3
+2021,"Port Alberni (CA), B.C.",2021S0504940,Apartment in a building that has fewer than five storeys,157.6,1315,2025,1.5
+2021,"Port Alberni (CA), B.C.",2021S0504940,Apartment in a building that has five or more storeys,157.7,140,185,1.3
+2021,"Port Alberni (CA), B.C.",2021S0504940,Other single-attached house,157.8,15,30,1.7
+2021,"Port Alberni (CA), B.C.",2021S0504940,Movable dwelling,157.9,495,810,1.6
+2021,"Powell River (CA), B.C.",2021S0504945,Total - Structural type of dwelling,158.1,8190,17460,2.1
+2021,"Powell River (CA), B.C.",2021S0504945,Single-detached house,158.2,6165,14040,2.3
+2021,"Powell River (CA), B.C.",2021S0504945,Semi-detached house,158.3,260,510,2.0
+2021,"Powell River (CA), B.C.",2021S0504945,Row house,158.4,105,240,2.3
+2021,"Powell River (CA), B.C.",2021S0504945,Apartment or flat in a duplex,158.5,325,665,2.1
+2021,"Powell River (CA), B.C.",2021S0504945,Apartment in a building that has fewer than five storeys,158.6,950,1370,1.4
+2021,"Powell River (CA), B.C.",2021S0504945,Apartment in a building that has five or more storeys,158.7,20,20,1.1
+2021,"Powell River (CA), B.C.",2021S0504945,Other single-attached house,158.8,30,55,1.8
+2021,"Powell River (CA), B.C.",2021S0504945,Movable dwelling,158.9,340,570,1.7
+2021,"Prince George (CA), B.C.",2021S0504970,Total - Structural type of dwelling,159.1,36800,87915,2.4
+2021,"Prince George (CA), B.C.",2021S0504970,Single-detached house,159.2,22940,60200,2.6
+2021,"Prince George (CA), B.C.",2021S0504970,Semi-detached house,159.3,1305,3160,2.4
+2021,"Prince George (CA), B.C.",2021S0504970,Row house,159.4,1845,4015,2.2
+2021,"Prince George (CA), B.C.",2021S0504970,Apartment or flat in a duplex,159.5,2510,5765,2.3
+2021,"Prince George (CA), B.C.",2021S0504970,Apartment in a building that has fewer than five storeys,159.6,4735,8235,1.7
+2021,"Prince George (CA), B.C.",2021S0504970,Apartment in a building that has five or more storeys,159.7,575,740,1.3
+2021,"Prince George (CA), B.C.",2021S0504970,Other single-attached house,159.8,35,90,2.5
+2021,"Prince George (CA), B.C.",2021S0504970,Movable dwelling,159.9,2855,5715,2.0
+2021,"Prince Rupert (CA), B.C.",2021S0504955,Total - Structural type of dwelling,160.1,5500,13300,2.4
+2021,"Prince Rupert (CA), B.C.",2021S0504955,Single-detached house,160.2,3245,8325,2.6
+2021,"Prince Rupert (CA), B.C.",2021S0504955,Semi-detached house,160.3,230,585,2.5
+2021,"Prince Rupert (CA), B.C.",2021S0504955,Row house,160.4,310,890,2.9
+2021,"Prince Rupert (CA), B.C.",2021S0504955,Apartment or flat in a duplex,160.5,635,1530,2.4
+2021,"Prince Rupert (CA), B.C.",2021S0504955,Apartment in a building that has fewer than five storeys,160.6,910,1670,1.8
+2021,"Prince Rupert (CA), B.C.",2021S0504955,Apartment in a building that has five or more storeys,160.7,60,70,1.2
+2021,"Prince Rupert (CA), B.C.",2021S0504955,Other single-attached house,160.8,10,20,1.8
+2021,"Prince Rupert (CA), B.C.",2021S0504955,Movable dwelling,160.9,100,200,2.0
+2021,"Quesnel (CA), B.C.",2021S0504952,Total - Structural type of dwelling,161.1,10155,22900,2.3
+2021,"Quesnel (CA), B.C.",2021S0504952,Single-detached house,161.2,7165,17310,2.4
+2021,"Quesnel (CA), B.C.",2021S0504952,Semi-detached house,161.3,205,445,2.1
+2021,"Quesnel (CA), B.C.",2021S0504952,Row house,161.4,305,675,2.2
+2021,"Quesnel (CA), B.C.",2021S0504952,Apartment or flat in a duplex,161.5,210,495,2.4
+2021,"Quesnel (CA), B.C.",2021S0504952,Apartment in a building that has fewer than five storeys,161.6,1065,1710,1.6
+2021,"Quesnel (CA), B.C.",2021S0504952,Apartment in a building that has five or more storeys,161.7,0,0,0.0
+2021,"Quesnel (CA), B.C.",2021S0504952,Other single-attached house,161.8,40,95,2.3
+2021,"Quesnel (CA), B.C.",2021S0504952,Movable dwelling,161.9,1165,2170,1.9
+2021,"Salmon Arm (CA), B.C.",2021S0504920,Total - Structural type of dwelling,162.1,8215,18895,2.3
+2021,"Salmon Arm (CA), B.C.",2021S0504920,Single-detached house,162.2,5155,13290,2.6
+2021,"Salmon Arm (CA), B.C.",2021S0504920,Semi-detached house,162.3,225,390,1.7
+2021,"Salmon Arm (CA), B.C.",2021S0504920,Row house,162.4,605,1105,1.8
+2021,"Salmon Arm (CA), B.C.",2021S0504920,Apartment or flat in a duplex,162.5,680,1645,2.4
+2021,"Salmon Arm (CA), B.C.",2021S0504920,Apartment in a building that has fewer than five storeys,162.6,1105,1610,1.5
+2021,"Salmon Arm (CA), B.C.",2021S0504920,Apartment in a building that has five or more storeys,162.7,5,10,
+2021,"Salmon Arm (CA), B.C.",2021S0504920,Other single-attached house,162.8,25,60,2.2
+2021,"Salmon Arm (CA), B.C.",2021S0504920,Movable dwelling,162.9,420,795,1.9
+2021,"Squamish (CA), B.C.",2021S0504934,Total - Structural type of dwelling,163.1,9310,23965,2.6
+2021,"Squamish (CA), B.C.",2021S0504934,Single-detached house,163.2,3815,11265,3.0
+2021,"Squamish (CA), B.C.",2021S0504934,Semi-detached house,163.3,845,2280,2.7
+2021,"Squamish (CA), B.C.",2021S0504934,Row house,163.4,1360,3540,2.6
+2021,"Squamish (CA), B.C.",2021S0504934,Apartment or flat in a duplex,163.5,610,1665,2.7
+2021,"Squamish (CA), B.C.",2021S0504934,Apartment in a building that has fewer than five storeys,163.6,1665,3155,1.9
+2021,"Squamish (CA), B.C.",2021S0504934,Apartment in a building that has five or more storeys,163.7,630,1205,1.9
+2021,"Squamish (CA), B.C.",2021S0504934,Other single-attached house,163.8,20,40,1.8
+2021,"Squamish (CA), B.C.",2021S0504934,Movable dwelling,163.9,365,805,2.2
+2021,"Terrace (CA), B.C.",2021S0504965,Total - Structural type of dwelling,164.1,8000,19355,2.4
+2021,"Terrace (CA), B.C.",2021S0504965,Single-detached house,164.2,5375,13955,2.6
+2021,"Terrace (CA), B.C.",2021S0504965,Semi-detached house,164.3,345,860,2.5
+2021,"Terrace (CA), B.C.",2021S0504965,Row house,164.4,485,1030,2.1
+2021,"Terrace (CA), B.C.",2021S0504965,Apartment or flat in a duplex,164.5,385,880,2.3
+2021,"Terrace (CA), B.C.",2021S0504965,Apartment in a building that has fewer than five storeys,164.6,605,1165,1.9
+2021,"Terrace (CA), B.C.",2021S0504965,Apartment in a building that has five or more storeys,164.7,0,0,0.0
+2021,"Terrace (CA), B.C.",2021S0504965,Other single-attached house,164.8,50,80,1.6
+2021,"Terrace (CA), B.C.",2021S0504965,Movable dwelling,164.9,750,1385,1.8
+2021,"Trail (CA), B.C.",2021S0504910,Total - Structural type of dwelling,165.1,6515,13865,2.1
+2021,"Trail (CA), B.C.",2021S0504910,Single-detached house,165.2,4955,11315,2.3
+2021,"Trail (CA), B.C.",2021S0504910,Semi-detached house,165.3,245,415,1.7
+2021,"Trail (CA), B.C.",2021S0504910,Row house,165.4,195,385,2.0
+2021,"Trail (CA), B.C.",2021S0504910,Apartment or flat in a duplex,165.5,225,435,1.9
+2021,"Trail (CA), B.C.",2021S0504910,Apartment in a building that has fewer than five storeys,165.6,785,1120,1.4
+2021,"Trail (CA), B.C.",2021S0504910,Apartment in a building that has five or more storeys,165.7,0,0,0.0
+2021,"Trail (CA), B.C.",2021S0504910,Other single-attached house,165.8,15,30,1.8
+2021,"Trail (CA), B.C.",2021S0504910,Movable dwelling,165.9,95,160,1.6
+2021,"Vancouver (CMA), B.C.",2021S0503933,Total - Structural type of dwelling,166.1,1043320,2607015,2.5
+2021,"Vancouver (CMA), B.C.",2021S0503933,Single-detached house,166.2,288775,896290,3.1
+2021,"Vancouver (CMA), B.C.",2021S0503933,Semi-detached house,166.3,22025,59710,2.7
+2021,"Vancouver (CMA), B.C.",2021S0503933,Row house,166.4,105965,291995,2.8
+2021,"Vancouver (CMA), B.C.",2021S0503933,Apartment or flat in a duplex,166.5,167855,502175,3.0
+2021,"Vancouver (CMA), B.C.",2021S0503933,Apartment in a building that has fewer than five storeys,166.6,255550,500280,2.0
+2021,"Vancouver (CMA), B.C.",2021S0503933,Apartment in a building that has five or more storeys,166.7,197280,345135,1.8
+2021,"Vancouver (CMA), B.C.",2021S0503933,Other single-attached house,166.8,1345,3100,2.3
+2021,"Vancouver (CMA), B.C.",2021S0503933,Movable dwelling,166.9,4525,8325,1.8
+2021,"Vernon (CA), B.C.",2021S0504918,Total - Structural type of dwelling,167.1,28725,65315,2.3
+2021,"Vernon (CA), B.C.",2021S0504918,Single-detached house,167.2,16285,41375,2.5
+2021,"Vernon (CA), B.C.",2021S0504918,Semi-detached house,167.3,1680,3475,2.1
+2021,"Vernon (CA), B.C.",2021S0504918,Row house,167.4,2205,4570,2.1
+2021,"Vernon (CA), B.C.",2021S0504918,Apartment or flat in a duplex,167.5,2205,5415,2.5
+2021,"Vernon (CA), B.C.",2021S0504918,Apartment in a building that has fewer than five storeys,167.6,4905,7975,1.6
+2021,"Vernon (CA), B.C.",2021S0504918,Apartment in a building that has five or more storeys,167.7,350,455,1.3
+2021,"Vernon (CA), B.C.",2021S0504918,Other single-attached house,167.8,95,185,1.9
+2021,"Vernon (CA), B.C.",2021S0504918,Movable dwelling,167.9,1005,1855,1.9
+2021,"Victoria (CMA), B.C.",2021S0503935,Total - Structural type of dwelling,168.1,176680,388290,2.2
+2021,"Victoria (CMA), B.C.",2021S0503935,Single-detached house,168.2,67265,175845,2.6
+2021,"Victoria (CMA), B.C.",2021S0503935,Semi-detached house,168.3,6440,15720,2.4
+2021,"Victoria (CMA), B.C.",2021S0503935,Row house,168.4,11315,25515,2.3
+2021,"Victoria (CMA), B.C.",2021S0503935,Apartment or flat in a duplex,168.5,27125,66925,2.5
+2021,"Victoria (CMA), B.C.",2021S0503935,Apartment in a building that has fewer than five storeys,168.6,47465,77625,1.6
+2021,"Victoria (CMA), B.C.",2021S0503935,Apartment in a building that has five or more storeys,168.7,14645,22480,1.5
+2021,"Victoria (CMA), B.C.",2021S0503935,Other single-attached house,168.8,305,670,2.2
+2021,"Victoria (CMA), B.C.",2021S0503935,Movable dwelling,168.9,2115,3505,1.7
+2021,"Williams Lake (CA), B.C.",2021S0504950,Total - Structural type of dwelling,169.1,10040,23340,2.3
+2021,"Williams Lake (CA), B.C.",2021S0504950,Single-detached house,169.2,6530,16320,2.5
+2021,"Williams Lake (CA), B.C.",2021S0504950,Semi-detached house,169.3,275,620,2.3
+2021,"Williams Lake (CA), B.C.",2021S0504950,Row house,169.4,380,925,2.4
+2021,"Williams Lake (CA), B.C.",2021S0504950,Apartment or flat in a duplex,169.5,575,1290,2.3
+2021,"Williams Lake (CA), B.C.",2021S0504950,Apartment in a building that has fewer than five storeys,169.6,965,1580,1.6
+2021,"Williams Lake (CA), B.C.",2021S0504950,Apartment in a building that has five or more storeys,169.7,5,5,
+2021,"Williams Lake (CA), B.C.",2021S0504950,Other single-attached house,169.8,25,50,2.0
+2021,"Williams Lake (CA), B.C.",2021S0504950,Movable dwelling,169.9,1290,2555,2.0
+2021,Yukon,2021A000260,Total - Structural type of dwelling,170.1,17180,39585,2.3
+2021,Yukon,2021A000260,Single-detached house,170.2,10355,25500,2.5
+2021,Yukon,2021A000260,Semi-detached house,170.3,1270,2995,2.4
+2021,Yukon,2021A000260,Row house,170.4,1250,3090,2.5
+2021,Yukon,2021A000260,Apartment or flat in a duplex,170.5,700,1545,2.2
+2021,Yukon,2021A000260,Apartment in a building that has fewer than five storeys,170.6,1985,3265,1.7
+2021,Yukon,2021A000260,Apartment in a building that has five or more storeys,170.7,60,80,1.5
+2021,Yukon,2021A000260,Other single-attached house,170.8,125,245,2.0
+2021,Yukon,2021A000260,Movable dwelling,170.9,1445,2870,2.0
+2021,"Whitehorse (CA), Y.T.",2021S0504990,Total - Structural type of dwelling,171.1,13185,31425,2.4
+2021,"Whitehorse (CA), Y.T.",2021S0504990,Single-detached house,171.2,7110,18655,2.6
+2021,"Whitehorse (CA), Y.T.",2021S0504990,Semi-detached house,171.3,1060,2595,2.5
+2021,"Whitehorse (CA), Y.T.",2021S0504990,Row house,171.4,1155,2920,2.5
+2021,"Whitehorse (CA), Y.T.",2021S0504990,Apartment or flat in a duplex,171.5,650,1460,2.2
+2021,"Whitehorse (CA), Y.T.",2021S0504990,Apartment in a building that has fewer than five storeys,171.6,1835,3055,1.7
+2021,"Whitehorse (CA), Y.T.",2021S0504990,Apartment in a building that has five or more storeys,171.7,60,80,1.5
+2021,"Whitehorse (CA), Y.T.",2021S0504990,Other single-attached house,171.8,90,185,2.0
+2021,"Whitehorse (CA), Y.T.",2021S0504990,Movable dwelling,171.9,1230,2465,2.0
+2021,Northwest Territories,2021A000261,Total - Structural type of dwelling,172.1,15210,40375,2.7
+2021,Northwest Territories,2021A000261,Single-detached house,172.2,8600,25130,2.9
+2021,Northwest Territories,2021A000261,Semi-detached house,172.3,1070,2805,2.6
+2021,Northwest Territories,2021A000261,Row house,172.4,1630,4390,2.7
+2021,Northwest Territories,2021A000261,Apartment or flat in a duplex,172.5,370,860,2.3
+2021,Northwest Territories,2021A000261,Apartment in a building that has fewer than five storeys,172.6,2515,4795,1.9
+2021,Northwest Territories,2021A000261,Apartment in a building that has five or more storeys,172.7,300,515,1.7
+2021,Northwest Territories,2021A000261,Other single-attached house,172.8,115,250,2.2
+2021,Northwest Territories,2021A000261,Movable dwelling,172.9,615,1635,2.7
+2021,"Yellowknife (CA), N.W.T.",2021S0504995,Total - Structural type of dwelling,173.1,7515,19910,2.7
+2021,"Yellowknife (CA), N.W.T.",2021S0504995,Single-detached house,173.2,3335,10010,3.0
+2021,"Yellowknife (CA), N.W.T.",2021S0504995,Semi-detached house,173.3,195,525,2.7
+2021,"Yellowknife (CA), N.W.T.",2021S0504995,Row house,173.4,890,2730,3.1
+2021,"Yellowknife (CA), N.W.T.",2021S0504995,Apartment or flat in a duplex,173.5,310,705,2.3
+2021,"Yellowknife (CA), N.W.T.",2021S0504995,Apartment in a building that has fewer than five storeys,173.6,1940,3875,2.0
+2021,"Yellowknife (CA), N.W.T.",2021S0504995,Apartment in a building that has five or more storeys,173.7,300,515,1.7
+2021,"Yellowknife (CA), N.W.T.",2021S0504995,Other single-attached house,173.8,20,50,2.3
+2021,"Yellowknife (CA), N.W.T.",2021S0504995,Movable dwelling,173.9,545,1500,2.8
+2021,Nunavut,2021A000262,Total - Structural type of dwelling,174.1,9925,36600,3.7
+2021,Nunavut,2021A000262,Single-detached house,174.2,4280,19145,4.5
+2021,Nunavut,2021A000262,Semi-detached house,174.3,960,3485,3.6
+2021,Nunavut,2021A000262,Row house,174.4,3020,10260,3.4
+2021,Nunavut,2021A000262,Apartment or flat in a duplex,174.5,190,520,2.7
+2021,Nunavut,2021A000262,Apartment in a building that has fewer than five storeys,174.6,1350,2975,2.2
+2021,Nunavut,2021A000262,Apartment in a building that has five or more storeys,174.7,110,190,1.7
+2021,Nunavut,2021A000262,Other single-attached house,174.8,5,15,1.6
+2021,Nunavut,2021A000262,Movable dwelling,174.9,5,20,2.4
